@@ -1,6 +1,6 @@
 <center>
 
-# Universidad Peruana De Ciencas Aplicadas
+# Universidad Peruana De Ciencias Aplicadas
 ## Desarrollo de Aplicaciones Web SW51
 
 </center>
