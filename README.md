@@ -11,26 +11,26 @@
 <center>
     <h2>"Informe TB1"</h2>
     <h2>DevInvent - PhoneResQ</h2>
-    <h2>Profesor: Escobar Aguirre, Jaime Luis </h2>
+    <h3>Profesor: Escobar Aguirre, Jaime Luis </h2>
 </center>
 
 ## Integrantes:
 
 
-* ### Saldaña Vela, Janover Gonzalo     U202021B510 
-* ### Arenas Conde, José Anthony        U20211D744     
-* ### Chamorro Torres, Samuel Rolando   U202015096
-* ### Cancho Coila, Diego Fabian        U20201F479
-* ### 
+* Saldaña Vela, Janover Gonzalo             U202021B510 
+* Arenas Conde, José Anthony                U20211D744     
+* Chamorro Torres, Samuel Rolando           U202015096
+* Cancho Coila, Diego Fabian                U20201F479
+* Moreno Carmona, Oscar Sebastián Nicolás   U201911522
+
 -----
 ## Registro de Versiones Del Informe
 
 | Version | Fecha | Autor |   Descripcion de modificacion   |
-|----------|----------|----------|----------|
+|:----------:|:----------:|:----------:|:----------:|
 | 0.1   | 1/09/2023 | DevInvent | Se agrego el primer capitulo al trabajo  |
 
 ## Project Report Collaboration Insights 
-
 ------
 ## Contenido 
 ### Capitulo I: Introducción
