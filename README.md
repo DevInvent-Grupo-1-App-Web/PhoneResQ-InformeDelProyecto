@@ -1,7 +1,7 @@
 <center>
 
 # Universidad Peruana De Ciencias Aplicadas
-## Desarrollo de Aplicaciones Web SW51
+## Desarrollo de Aplicaciones Web SV51
 
 </center>
 
@@ -29,8 +29,29 @@
 | Version | Fecha | Autor |   Descripcion de modificacion   |
 |:----------:|:----------:|:----------:|:----------:|
 | 0.1   | 1/09/2023 | DevInvent | Se agrego el primer capitulo al trabajo  |
+| 0.2   | 9/09/2023 | DevInvent | Se agregaron los capitulos II-III-IV-V al informe del trabajo|
 
 ## Project Report Collaboration Insights 
+TB1: Para esta entrega, realizamos en equipo los puntos que corresponden a los capítulos asignados en el siguiente repositorio dentro de nuestra organización de grupo: [Github - Informe Final PhoneResQ](https://github.com/DevInvent-Grupo-1-App-Web/PhoneResQ-InformeDelProyecto)
+    <br>
+ A continuación, se muestran las capturas de evidencia correspondientes al desarrollo de los siguientes capítulos:
+
+    - Capítulo I: Introducción
+    - Capítulo II: Requirements Elicitation & Analysis
+    - Capítulo III: Requirements Specification
+    - Capítulo IV: Product Design
+    - Capítulo V: Product Implementation, Validation & Deployment
+
+<div align=center>
+      <img src="https://i.imgur.com/vLpfBAF.jpg"/>      
+    </div>
+
+<div align=center>
+      <img src="https://i.imgur.com/NSqmhhn.jpg"/>
+    </div>
+
+<br><br>
+
 ------
 ## Contenido 
 ### Capitulo I: Introducción
@@ -110,4 +131,15 @@
 ###### 5.2.1.6. Services Documentation Evidence for Sprint Review
 ###### 5.2.1.7. Software Deployment Evidence for Sprint Review
 ###### 5.2.1.8. Team Collaboration Insights during Sprint
+
+<br><br>
+
+# Student Outcome
+
+| Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                                                                                                                                                                                        |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.  | TB1 <br><br> Diego Fabian Cancho Coila <br> - Después de deliberar sobre el tema central del proyecto, tomamos en cuenta las opiniones de todos los miembros del equipo. Luego, coordinamos la frecuencia y el horario de nuestras reuniones según la disponibilidad de cada uno. <br> <br> TB1 <br><br> Arenas Conde, José Anthony <br> - Se realizaron dos reuniones semanales para compartir dudas, sugerencias y avances. Además, se concretó la repartición de responsabilidades de manera equitativa.<br> <br> TB1 <br><br> Janover Gonzalo Saldaña Vela <br> - Durante el proceso de documentación del entregable del TB1 se delegó funciones específicas para cada integrante del equipo tomando en cuenta las habilidades y conocimientos de dominio amplio sobre las diferentes partes del informe, ello con el fin de generar un entorno de trabajo ordenado y saludable para todos los integrantes y de manera de que todos podamos avanzar y adquirir nuevos conocimientos en conjunto y generar ideas creativas para la identificación del problema y la solución a esta. <br><br> TB1   <br><br> Oscar Sebastian Nicolas Moreno Carmona <br> - Se coordinó con el equipo las fechas para la entrega de avances, las reuniones, las partes que cada uno tenía que realizar. De manera que, se tuvo un desarrollo óptimo de la TB1 <br><br> TB1 <br><br> Samuel Rolando Chamorro Torres <br> - Seleccionamos el tema central del proyecto tras tomar en cuenta las perspectivas de cada integrante del equipo. Posteriormente, organizamos la frecuencia y horarios de nuestras reuniones de acuerdo con la disponibilidad de todos los participantes. | TB1 <br> Elegimos el tema central del proyecto, escuchando opiniones de todos los integrantes del equipo, luego realizamos los acuerdos de la cantidad de reuniones y el horario adaptado a la disponibilidad de todos, al final se acordaron plazos de entrega y la repartición de responsabilidades |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | TB1 <br><br> Diego Fabian Cancho Coila <br> -Después de colaborar juntos, ahora tenemos una visión general sobre cómo funciona el sector de logística en una empresa, con un conocimiento fundamental de cómo se implementan las soluciones de software en situaciones reales. <br><br> TB1 <br><br> Arenas Conde, José Anthony <br> - Luego del trabajo conjunto, se tiene una idea general de cómo es el trabajo en el sector de logística de una empresa, teniendo una comprensión básica de cómo se aplican las soluciones de software en un contexto real.<br><br> TB1 <br><br> Janover Gonzalo Saldaña Vela <br> - Con el fin de que el equipo tome decisiones informadas fue necesario conocer el dominio y aplicación del software a implementar, es por ello que todo el equipo participó de forma activa en el proceso de investigación de la problemática y la segmentación de nuestro público objetivo. <br><br> TB1<br><br>Oscar Sebastian Nicolas Moreno Carmona <br> - Como equipo, hemos realizado el trabajo de gran parte del área de requerimientos de lo sería una empresa de software. Por ello, hemos realizado muchos avances para tener un buen producto. <br><br> TB1 <br><br> Samuel Rolando Chamorro Torres <br> - Después de colaborar en conjunto, se ha desarrollado una comprensión general sobre las operaciones en el ámbito de la logística empresarial, adquiriendo conocimientos fundamentales acerca de la implementación de software en situaciones reales.                                                                                                                                                                                                          | TB1 <br> Nos enfocamos en mantenernos fieles al marco de desarrollo SCRUM, usando las técnicas y estrategias que tanto caracterizan a este framework para obtener los mejores resultados posibles.            |
+
+<br><br>
 
