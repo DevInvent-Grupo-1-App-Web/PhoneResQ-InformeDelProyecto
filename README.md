@@ -1,7 +1,7 @@
 <center>
 
 # Universidad Peruana De Ciencias Aplicadas
-## Desarrollo de Aplicaciones Web SW51
+## Desarrollo de Aplicaciones Web SV51
 
 </center>
 
@@ -28,6 +28,7 @@
 | Version | Fecha | Autor |   Descripcion de modificacion   |
 |----------|----------|----------|----------|
 | 0.1   | 1/09/2023 | DevInvent | Se agrego el primer capitulo al trabajo  |
+| 0.2   | 9/09/2023 | DevInvent | Se agregaron los capítulos II-III-IV-V al trabajo  |
 
 ## Project Report Collaboration Insights 
 
