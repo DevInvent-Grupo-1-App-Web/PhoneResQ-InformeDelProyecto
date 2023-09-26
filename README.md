@@ -1091,7 +1091,7 @@ Este escenario de mapeo "AS-IS" refleja el proceso actual que un usuario podría
 ### Capitulo III: Requirements Specification
 #### 3.1. To-Be Scenario Mapping
 
-![To be scenario mapping](Doc\img\ToBeScenarioMapping.jpg)
+![To be scenario mapping](Doc/img/ToBeScenarioMapping.jpg)
 Link del board para mejor visualización: https://miro.com/app/board/uXjVMrcoYx8=/?share_link_id=569820806792
 
 <br>
