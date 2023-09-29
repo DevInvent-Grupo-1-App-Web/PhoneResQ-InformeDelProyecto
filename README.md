@@ -49,7 +49,33 @@ TB1: Para esta entrega, realizamos en equipo los puntos que corresponden a los c
     </div>
 
 <br><br>
+- **TP1:** Para esta entrega, realizamos en equipo las actividades correspondientes dentro del repositorio dentro de nuestra organización de grupo:
 
+    Link del repositorio del Informe Final: [Github - Informe Final PhoneResQ](https://github.com/DevInvent-Grupo-1-App-Web/PhoneResQ-InformeDelProyecto)
+
+    <br>
+
+    A continuación, se muestran las capturas de evidencia correspondientes al desarrollo de los siguientes puntos:
+
+    - Sprint 2
+    - Sprint Planning 2
+    - Sprint Backlog 2
+    - Development Evidence for Sprint Review
+    - Testing Suite Evidence for Sprint Review
+    - Execution Evidence for Sprint Review
+    - Services Documentation Evidence for Sprint Review
+    - Software Deployment Evidence for Sprint Review
+    - Team Collaboration Insights during Sprint
+
+    <div align=center>
+      <img src="https://i.imgur.com/2R4UKKB.png"/>      
+    </div>
+
+    <div align=center>
+      <img src="https://i.imgur.com/uf92mJg.png"/>
+    </div>
+
+<br><br>
 ------
 # Contenido
 
@@ -2227,12 +2253,197 @@ Para llevar a cabo los commits en nuestro primer Sprint, hemos utilizado Visual 
   <img src="/Doc/img/CommitsDevInvent.jpg" width="450">
 </p>
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2.
+
+| Sprint 2                         | Implementación de la primera versión del Front-End                                                                                    |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background       |
+| Date                             | 26/09/2023                                                                                                                                      |
+| Time                             | 17:00                                                                                                                                           |
+| Location                         | Reunión realizada mediante Discord                                                                                                              |
+| Prepared By                      | Cancho Coila Diego Fabian                                                                                                               |
+| Pattendees (to planning meeting) | Cancho Coila Diego Fabian/ Chamorro Torres, Samuel / Arenas Conde, José Anthony / Moreno Carmona, Oscar Sebastián Nicolás     |
+| **Sprint Goal & User Stories**   |
+| Sprint 2 Goal                    | Realizar el despliegue del frontend en Google Firebase                                                                                                            |
+| Sprint 2 Velocity                |     37                                                                                                                                          |
+| Sum of Story Points              |     35                                                                                                                                          |
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| US14 | View Home    | TS01 |Vista Home (Desarrollado con el framework Primvue)         | Desarrollo e implementación de la vista Home, con sus estilos correspondientes      | 5                  | Samuel Chamorro | Done                                   |
+| US22 | View Log In    | TS02 | Vista del Log-In (Desarrollado con el framework Primevue)         | Implementación del screen Log-In, con sus estilos correspondientes   | 5                  | Samuel Chamorro | Done                                   |
+| US22 | View Sign Up          | TS03 | Vista del Sign-up (Desarrollado con el framework Primevue)                             | Implementación del screen Sign-up, con sus estilos correspondientes           | 5                  | Samue Chamorro   | Done                                   |
+| US19 | Registro de un dispositivo    | TS04 | Vista del registro de un dispositivo en Vue                             | Implementación de la vista de registro de dispositivo, con sus estilos correspondientes    | 5                  | José Arenas | Done                                   |
+| US20 | Busqueda de centros técncicos           | TS05 | Vista de busqueda de centros técnicos en Vue | Desarrollo e implementación de la vista de busqueda de centros técnicos con sus funciones y estilos correspondientes.    | 5                  | Diego Cancho   | Done                                   |
+| US18 | Sección de servicios disponibles | TS06 | Vista de la sección de servicios disponibles en Vue      | Desarrollo e implementación de la vista Servicios disponibles con sus funciones y estilos correspondientes. | 5                  | José Arenas  | Done                                   |
+| US06 |   Seguimiento de Reparaciones Anteriores    | TS07 | Vista de Seguimiento de Reparaciones Anteriores en Vue | Desarrollo e implementación de la Función Seguimiento de Reparaciones Anteriores, con sus características y estilos correspondientes.  | 5               | José Arenas | Done                                   |
+| US10 | Reportar Problemas o Quejas   | tS08 | Función de Reportar Problemas o Quejas en Vue  | Desarrollo e implementación de la Función Función de Reportar Problemas.                                        | 5                  | José arenas   | Done                                   |
+| US13 | Gestión de Perfiles de Técnicos   | TS09 | Gestión de Perfiles de Técnicos	en Vue        | Desarrollo e implementación de la Función Gestión de Perfiles de Técnicos	          | 5               | José Arenas   | Done                                   |                                 |
+| US26 |  vista de Pagina no encontrada  | TS10 | Implementación de la vista "Página no encontrada" en Vue | Desarrollo e implementación de la Función "Página no encontrada"    | 5               | Diego Cancho   | Done                                   |                                 |
+| US03 | Comunicación Multicanal con el Servicio Técnico   | TS11 | Vista del Chat entre el Técnico y el Cliente        | Desarrollo e implementación de la Función Vista del Chat entre el Técnico y el Cliente      | 5               | Diego Cancho   | Done                                   |                                 |
+| US13 | Gestión de Perfiles de Técnicos   | TS09 | Gestión de Perfiles de Técnicos	en Vue        | Desarrollo e implementación de la Función Gestión de Perfiles de Técnicos	          | 5               | José Arenas   | Done                                   |
+
+<div align="center">
+
+  <img src="https://i.imgur.com/KyFKTpl.png">
+
+</div>
+
+Link del Trello: https://trello.com/invite/b/Xd5QD54A/ATTI98efc7f514edf4723bab7a4e58e79c69F4BA92E1/phoneresq
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| PhoneResQ-app | feature/Home | 9260338e   | feature: home | -                   | 29/09/2023         |
+| PhoneResQ-app | feature/SistemOpChoose                    | 433ed27a8   | feature: SistemOpChoose        | -                   | 29/09/2023         |
+| PhoneResQ-app | feature/log-in and sign-up                            | a86b825b   | feature: log-in and sign-up                | -                   | 29/09/2023         |
+| PhoneResQ-app | feature/messages                               | bdc7a58f   | feature: messages                   | -                   | 29/09/2023         |
+| PhoneResQ-app | features/develop                         | 902c62b   | feature: develop             | -                   | 29/09/2023         |
+| PhoneResQ-app | features/Android Brand Phones Choose                         | 632e762   | feature: Android Brand Phones Choose              | -                   | 29/09/2023         |
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+A continuación, se muestra la evidencia en forma de capturas de pantalla sobre el testeo del Front-End, el cual se realizó de manera satisfactoria.
+
+Tenemos la compilación en consola, la cual se completó satisfactoriamente.
+
+<div align="center">
+
+  <img src="https://i.imgur.com/vdokWSn.png">
+
+</div>
+
+<br>
+
+Tenemos nuestro localhost, el cual se muestra correctamente de acuerdo a lo que se ha desarrollado.
+
+<div align="center">
+
+  <img src="https://i.imgur.com/cLuiy39.png">
+
+</div>
+
+<br>
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+<div align="center">
+
+  <img src="inserta imagen de la ejecución del deploy">
+
+</div>
+
+<br>
+
+Link al video: [Ver video de Ejecución del Front-End](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EfVdeI7PusNEksSttGu2YI8BMWOUU7cKu9s5h6EEBOUXDw?e=ljykhK)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+| Endpoint | Detalles |
+| - | - | 
+| /incio| En esta ruta se muestra la primera vista del servicio | 
+| /mi-cuenta | En esta ruta se muestran los datos de la cuenta del usuario | 
+| /courses  | En esta ruta se muestra la pantalla relacionada a los cursos que ofrecen los expertos | 
+| /sisopchoose  | En esta ruta se muestra la pantalla relacionada a la elección del Celular que pose el usario| 
+| /login  | En este endpoint se muestra la pantalla relacionada al inicio de sesión | 
+
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para realizar el despliegue automático de nuestro Front-End, utilizamos el hosting de Google Firebase, el cual permite alojar el código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: https://phoneresq-22d13.web.app/login 
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+En la ejecución de los commits durante nuestro segundo Sprint, utilizamos la combinación de Visual Studio Code y Git. Inicialmente, uno de los miembros realizó un commit inicial para crear el repositorio. Luego, empleamos Git para clonar el repositorio y efectuamos las modificaciones en Visual Studio Code. También creamos los branches pertinentes para estos cambios y, al concluir, realizamos un commit. Este commit será sometido a revisión en el repositorio de Github. El líder del equipo aprobó los pull request que se generaron como resultado de estas acciones.
+
+<div align="center">
+
+  <img src="https://i.imgur.com/orZwcOO.png">
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://i.imgur.com/2R4UKKB.png">
+
+</div>
+<div align="center">
+
+  <img src="https://i.imgur.com/uf92mJg.png">
+
+</div>
+
+<br>
 
 ## Conclusiones
- - El problema radica en la falta de comunicación y acceso a servicios seguros de reparación de dispositivos móviles, generando preocupaciones y desconfianza en los usuarios. Experiencias previas con técnicos poco confiables agravan la situación. La solución necesaria implica ofrecer servicios técnicos confiables, seguridad y una comunicación efectiva a través de una aplicación web. Esto garantizaría transparencia en el proceso de reparación y costos, mejorando la experiencia del usuario en la reparación de dispositivos móviles.
- - El proyecto tiene como objetivo satisfacer las necesidades de usuarios y técnicos de reparación de dispositivos móviles en Perú a través de una aplicación que proporciona información sobre centros técnicos confiables y herramientas de gestión de inventario. Los clientes buscan comodidad y confianza al elegir servicios técnicos, mientras que los técnicos desean expandir su alcance y mejorar la comunicación con los clientes.
- - Para tener éxito, es esencial abordar el riesgo de errores funcionales mediante pruebas y mejoras continuas, ya que la competencia proviene de aplicaciones similares. La estrategia de adquisición de clientes se enfocará en las redes sociales, y se considerarán modelos de suscripción y comisiones como posibles fuentes de ingresos.
+
+ - A través del análisis de la competencia, hemos obtenido una comprensión clara de nuestras fortalezas y debilidades, lo que nos permite ofrecer un producto que se adapte de manera precisa a las necesidades de nuestros usuarios. Este proceso nos ha conferido una ventaja competitiva al identificar oportunidades para mejorar y destacar en el mercado.
+ - Para el desarrollo de nuestra aplicación, hemos empleado una amplia variedad de herramientas, como user personas, empathy maps, user journey maps, análisis del estado actual y futuro, product backlog, así como la creación de diagramas y diseños de base de datos, entre otros. Esta metodología de trabajo exhaustiva garantiza que nuestra aplicación esté diseñada de manera óptima y alineada con las expectativas de nuestros usuarios.
+ - Las entrevistas directas con los usuarios desempeñaron un papel crucial en nuestra investigación. Estas conversaciones nos proporcionaron una comprensión profunda de las necesidades reales de nuestros usuarios, lo que nos permitió abordarlas de manera efectiva en nuestra propuesta. Las voces de los usuarios fueron el motor impulsor de nuestro proceso de desarrollo. 
+ - La primera entrega del proyecto no solo nos permitió presentar soluciones iniciales, sino que también nos brindó la oportunidad de explorar diversas alternativas para abordar nuestros desafíos. Fue un momento de reflexión en el que buscamos satisfacer de manera innovadora y efectiva las necesidades de nuestros segmentos objetivo.
+ - A través del análisis de la competencia y las entrevistas con los usuarios, hemos identificado los elementos cruciales que se presentarán en este informe. Hemos profundizado en una amplia variedad de aspectos, centrándonos especialmente en la problemática que nos impulsa a encontrar soluciones significativas y efectivas. Este proceso de investigación nos ha proporcionado una base sólida para tomar decisiones informadas en el desarrollo de nuestro producto.
+ - La elección de Google Firebase para el despliegue representa una solución altamente eficaz y conveniente para desarrolladores de aplicaciones web y móviles. Esta plataforma integral combina facilidad de uso, escalabilidad y seguridad, simplificando significativamente el proceso de desarrollo y despliegue. La capacidad de Firebase para gestionar una amplia gama de servicios, su alojamiento en la infraestructura confiable de Google Cloud y sus herramientas de análisis la convierten en una elección sólida para crear y lanzar aplicaciones de alta calidad de manera eficiente. 
+ - Gracias a la realización de este proyecto práctico, hemos podido identificar los puntos fuertes y débiles de nuestro proyecto. Durante la creación del front-end de nuestra página, nos aseguramos de que cumpla con los estándares actuales y sea altamente receptiva para ofrecer la mejor experiencia al usuario. Además, nos hemos organizado mejor para abordar las correcciones necesarias de la entrega anterior y lograr una versión mejorada con un desarrollo más sólido. 
+ - Durante el segundo Sprint, el equipo logró un avance significativo al completar la implementación del Front-End del proyecto, incluyendo vistas esenciales como el "Inicio", Log-In, Sign-Up, Registro de dispositivo, Historial de Servicios y Reporte de quejas u Observaciones. Este logro marca un hito importante en el desarrollo del software, ya que la interfaz de usuario es una parte fundamental de la experiencia del usuario. La colaboración efectiva, el cumplimiento de las estimaciones de tiempo y la adopción de buenas prácticas de desarrollo fueron clave para alcanzar este hito, preparando el terreno para futuros avances y la creación de una aplicación web funcional y atractiva para los usuarios finales.
+ - Este proyecto y el uso de Firebase nos han permitido abrazar la innovación y la adaptación continua como parte fundamental de nuestro proceso de desarrollo. Hemos aprendido que el mundo de las aplicaciones web y móviles está en constante evolución, y es esencial mantenerse actualizado con las últimas tendencias y tecnologías. Firebase nos ha proporcionado la flexibilidad para incorporar nuevas características y funcionalidades de manera eficiente, lo que nos ha permitido satisfacer las necesidades cambiantes de nuestros usuarios y mantenernos competitivos en un mercado en constante cambio. Este enfoque en la innovación y la adaptación continua seguirá siendo un elemento central en nuestro viaje de desarrollo de aplicaciones
 
 
+
+## Bibliografía
+
+Android Developers. (s.f.). Cómo brindar compatibilidad con diferentes densidades de píxeles. https://developer.android.com/training/multiscreen/screendensities?hl=es-419
+  
+Android Developers. (s.f.). Especificaciones de diseño de íconos de Google Play. https://developer.android.com/google-play/resources/icon-design-specifications?hl=es-419
+
+Babiloni, A. (8 de febrero de 2019). ¿Cómo es el servicio técnico de los fabricantes de móviles? Ponemos a prueba el soporte de Apple, Samsung, Xiaomi, LG, Sony y más. Xataka. https://www.xataka.com/especiales/como-servicio-tecnico-fabricantes-moviles-ponemos-a-prueba-soporte-apple-samsung-xiaomi-lg-sony 
+
+Bertran, J. (2021). Diseño de Apps: 7 Consejos Para Diseñar Botones UX/UI. https://pickaso.com/2021/7-consejos-disenar-botones-ux-ui 
+
+Boza Rivera, W. J., Huamanchumo Pinedo, A. J., Ibañez Esteban, C. A., & Taype Albinagorta, R. C. (2018). Proyecto IFIXER. Universidad Peruana de Ciencias Aplicadas (UPC), Lima, Perú. Recuperado de http://hdl.handle.net/10757/625281 
+
+Claro Perú. (10 de agosto 2021). ¿Cómo puedo saber el estado de mi equipo en el Servicio Técnico? Comunidad Claro. https://comunidad.claro.com.pe/t5/M%C3%B3vil/C%C3%B3mo-puedo-saber-el-estado-de-mi-equipo-en-el-Servicio-T%C3%A9cnico/m-p/69375#M33452 
+
+Fahsbender, F. (25 de marzo de 2021). Así funcionan los desarmaderos de celulares robados, el nuevo 	mercado caliente del crimen porteño. Infobae. https://www.infobae.com/sociedad/policiales/2021/03/25/asi-funcionan-los-desarmaderos-de-celulares-robados-el-nuevo-mercado-caliente-del-crimen-porteno/
+ 
+Hay más de 40 millones de líneas móviles activas en Perú. (24 de mayo de 2018). Perú 21. Recuperado de: https://peru21.pe/peru/osiptel-hay-40-millones-lineas-moviles-activas-peru-408082-noticia/
+
+Iconografía para distintas distribuciones de pantalla. (13 de marzo 2015). Desarrollador Android. https://desarrollador-android.com/diseno/estilo-2/iconografia/
+
+Luis. (2023). Cómo Iniciar un Negocio de Reparación de Productos Electrónicos en 2023. Orderry. https://orderry.com/es/blog/start-electronics-repair/ 
+
+Modelos de plan de negocios. (s.f.). Montar un taller de reparación de celulares: Ingresos, gastos de operación y ganacias. Recuperado de https://modelosdeplandenegocios.com/blogs/news/reparacion-celulares-facturacion-utilidades 
+
+Muleiro. (8 de abril 2015). Mi experiencia con la reparación de mi celu en Polvos Azules. [Publicación en un foro online]. Mensaje publicado en https://www.peruhardware.net/temas/mi-experiencia-con-la-reparacion-de-mi-celu-en-polvos-azules.223707/pagina-2 
+
+Organismo Supervisor de Inversión Privada en Telecomunicaciones. (2022). El 88,4 % de los hogares peruanos cuenta con un teléfono inteligente. Recuperado de: https://www.osiptel.gob.pe/media/d1oen1er/np19072022-acceso-equipos.pdf  
+
+Santos E. (2020). Servicio técnico y apps de móvil: todas las ventajas. Recuperado de  https://www.synchroteam.com/es/blog/2020/11/06/servicio-tecnico-y-apps-de-movil-todas-las-ventajas/
+
+Spark Electricians. (s.f.). Descubre cuánto puede ganar un técnico de reparación de celulares en Perú. https://reparacioncelulareslima.com/cuanto-gana-un-tecnico-de-reparacion-de-celulares-en-peru/ 
+
+Statista. (18 de octubre de 2022). Number of smartphones sold to end users worldwide from 2007 to 2021. https://www.statista.com/statistics/263437/global-smartphone-sales-to-end-users-since-2007/ 
+
+Serrano, A. (s.f.). Modo oscuro: 8 trucos para mejorar tus diseños. https://www.silocreativo.com/modo-oscuro-8-trucos-para-mejorar-tus-disenos/ 
+
+INE (2017). En el 90,6% de los hogares del país existe al menos un miembro que tiene teléfono celular. Recuperado de: https://m.inei.gob.pe/prensa/noticias/en-el-906-de-los-hogares-del-pais-existe-al-menos-un-miembro-que-tiene-telefon
+
+OPSITEL (2021). Mercado móvil sumó más de 3.7 millones de líneas durante el 2021. http://www.osiptel.gob.pe/portal-del-usuario/noticias/mercado-movil-sumo-mas-de-3-7-millones-de-lineas-durante-el-2021/#:~:text=El%202021%20fue%20un%20a%C3%B1o,Privada%20en%20Telecomunicaciones%2
+
+IPSOS (2022). Perfiles socioeconómicos del Perú 2021. http://www.ipsos.com/es-pe/perfiles-socioeconomicos-del-peru-2021
+
+   
+DescoCaosTV (5 de enero de 2020). Pongo a prueba dos técnicos de celular [Archivo de video]. Recuperado de: https://youtu.be/Okmfu74-ebE [Consulta: 18 de setiembre de 2023]
+
+<br><br>
 
 <br>
