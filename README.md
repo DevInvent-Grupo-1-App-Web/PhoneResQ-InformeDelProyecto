@@ -17,12 +17,10 @@
 ## Integrantes:
 
 
-* Saldaña Vela, Janover Gonzalo             U202021B510 
 * Arenas Conde, José Anthony                U20211D744     
 * Chamorro Torres, Samuel Rolando           U202015096
 * Cancho Coila, Diego Fabian                U20201F479
 * Moreno Carmona, Oscar Sebastián Nicolás   U201911522
-
 -----
 ## Registro de Versiones Del Informe
 
