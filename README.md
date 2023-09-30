@@ -9,7 +9,7 @@
 
 
 <center>
-    <h2>"Informe TB1"</h2>
+    <h2>"Informe TP1"</h2>
     <h2>DevInvent - PhoneResQ</h2>
     <h3>Profesor: Escobar Aguirre, Jaime Luis </h2>
 </center>
