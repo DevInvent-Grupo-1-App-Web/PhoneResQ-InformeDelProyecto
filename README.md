@@ -186,9 +186,9 @@ TB1: Para esta entrega, realizamos en equipo los puntos que corresponden a los c
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
-### [Conclusiones](#conclusiones)
+### [Conclusiones](#conclusiones-1)
 
-### [Bibliografía](#bibliografía)
+### [Bibliografía](#bibliografc3ada-1)
 
 <br><br>
 
@@ -204,6 +204,9 @@ TB1: Para esta entrega, realizamos en equipo los puntos que corresponden a los c
 
 <br><br>
 
+# Capítulo I: Introducción
+
+## 1.1. StartUp Profile
 # 1.1.1 Descripción de la startup  
 
 DevInvent es un startup que se dedica al desarrollo de software enfocada en brindar soluciones personalizadas y de alta calidad. La empresa fue fundada por estudiantes de ingeniería de software de la Universidad Peruana de Ciencias Aplicadas. 
@@ -403,6 +406,11 @@ Stakeholders diagram
 
 <br>
 
+
+# Capítulo II: Requirements Elicitation & Analysis
+
+## 2.1. Competidores
+
 ### 2.1.1 Análisis competitivo
 
 <table style="undefined;table-layout: fixed; width: 903px">
@@ -558,6 +566,7 @@ _Tácticas_
 
 <br>
 
+## 2.2. Entrevistas
 ### 2.2.1 Diseño de entrevistas
 
 #### Guía de preguntas para usuarios que desean reparar su dispositivo
@@ -1047,6 +1056,7 @@ En base a las tres entrevistas realizadas a técnicos de dispositivos móviles, 
  - **Funcionalidades Adicionales para Aplicaciones:** Los técnicos proponen funcionalidades adicionales para aplicaciones, como proporcionar información detallada de los equipos, mostrar el nombre del técnico, indicar los problemas comunes y permitir que los clientes expresen sus comentarios y propuestas. 
 
 <br>
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 Los User Personas son esenciales en este proyecto ya que representan a los usuarios potenciales de la aplicación web y brindan una comprensión profunda de sus necesidades, comportamientos y motivaciones. Estos perfiles guían el diseño y desarrollo al asegurar que la aplicación esté adaptada a lo que los usuarios desean y requieren, lo que resulta en una experiencia de usuario más efectiva y satisfactoria. Además, también ayudan en la toma de decisiones informadas, la priorización de características, la resolución anticipada de problemas y la comunicación efectiva entre los equipos.
@@ -1666,9 +1676,7 @@ En la creación de los prototipos, se consideraron las distintivas formas en que
 
 <br>
 
-## 4.6. Domain-Drive Software Architecture
-
-### 4.6. Domain-Driven Software Architecture.
+## 4.6. Domain-Driven Software Architecture.
 
 En esta sección, se expondrán los diagramas que representan la arquitectura de software que hemos concebido para nuestra aplicación web. En la elaboración de estos diseños, hemos aplicado patrones de diseño de alto nivel, bajo la perspectiva de Domain-Driven. De esta manera, podremos transmitir de manera eficaz y efectiva la estructura de nuestra arquitectura de software.
 
@@ -1740,6 +1748,8 @@ Enlace para visualizar el diagrama en Vertabelo</a>
 </p>
 
 <br>
+
+# Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
 La gestión de configuración de software es esencial para garantizar un desarrollo y despliegue eficiente y consistente de la aplicación. Involucra varios aspectos clave para mantener la calidad y la coherencia en el proceso de desarrollo y entrega del software.
