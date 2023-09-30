@@ -7,6 +7,8 @@
 
 <p align = "center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> </p>
 
+Enlace de exposición de la entrega TB1:  [Exposición TB1 - PhoneResQ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b510_upc_edu_pe/EWp5DRAfO6dJpWNUr80tuxgBQV3PcbRZKayP9WzTZ2rfcA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=Qbi2tL)
+<br>
 
 <center>
     <h2>"Informe TP1"</h2>
