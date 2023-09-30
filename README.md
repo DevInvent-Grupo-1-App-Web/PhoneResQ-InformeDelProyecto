@@ -91,7 +91,7 @@ TB1: Para esta entrega, realizamos en equipo los puntos que corresponden a los c
 
 ### [Student Outcome](#student-outcome-1)
 
-### [Capítulo I: Introducción](#capítulo-i-introducción)
+### [Capítulo I: Introducción](#capc3adtulo-i-introduccic3b3n-1)
 
 - [1.1. Startup Profile](#11-startup-profile)
   - [1.1.1. Descripción de la Startup](#111-description-de-la-startup)
@@ -105,7 +105,7 @@ TB1: Para esta entrega, realizamos en equipo los puntos que corresponden a los c
     - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-### [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
+### [Capítulo II: Requirements Elicitation & Analysis](#capc3adtulo-ii-requirements-elicitation--analysis-1)
 
 - [2.1. Competidores](#21-competidores)
   - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
@@ -121,14 +121,14 @@ TB1: Para esta entrega, realizamos en equipo los puntos que corresponden a los c
   - [2.3.4. Empathy Mapping](#234-empathy-mapping)
   - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 
-### [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+### [Capítulo III: Requirements Specification](#capitulo-iii-requirements-specification)
 
 - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 - [3.2. User Stories](#32-user-stories)
 - [3.3. Impact Mapping](#33-impact-mapping)
 - [3.4. Product Backlog](#34-product-backlog)
 
-### [Capítulo IV: Product Design](#capítulo-iv-product-design)
+### [Capítulo IV: Product Design](#capitulo-iv-product-design)
 
 - [4.1. Style Guidelines](#41-style-guidelines)
   - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
@@ -158,7 +158,7 @@ TB1: Para esta entrega, realizamos en equipo los puntos que corresponden a los c
 - [4.8. Database Design](#48-database-design)
   - [4.8.1. Database Diagram](#481-database-diagram)
 
-### [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
+### [Capítulo V: Product Implementation, Validation & Deployment](#capc3adtulo-v-product-implementation-validation--deployment-1)
 
 - [5.1. Software Configuration Management](#51-software-configuration-management)
   - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
@@ -229,6 +229,7 @@ Convertirnos en líderes reconocidos en el desarrollo de software personalizado 
 
 ![integrante-euipo5.png](Doc/img/5.png)
 <br>
+
 # 1.2.1 Antecedentes y problemática
 
 **Antecedentes:**  
