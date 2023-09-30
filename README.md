@@ -2336,13 +2336,13 @@ Tenemos nuestro localhost, el cual se muestra correctamente de acuerdo a lo que 
 
 <div align="center">
 
-  <img src="inserta imagen de la ejecución del deploy">
+  <img src="https://i.imgur.com/cHoXeuS.png">
 
 </div>
 
 <br>
 
-Link al video: [Ver video de Ejecución del Front-End](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EfVdeI7PusNEksSttGu2YI8BMWOUU7cKu9s5h6EEBOUXDw?e=ljykhK)
+Link al video: [Ver video de Ejecución del Front-End](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EaF_nabY7EVLnIj4py-xL4YBxUWvEX8HyGyZH8WBHJ-9oQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=WZBFyk)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
