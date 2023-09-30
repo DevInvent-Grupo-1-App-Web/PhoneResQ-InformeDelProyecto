@@ -2285,7 +2285,7 @@ Para llevar a cabo los commits en nuestro primer Sprint, hemos utilizado Visual 
 | US13 | Gestión de Perfiles de Técnicos   | TS09 | Gestión de Perfiles de Técnicos	en Vue        | Desarrollo e implementación de la Función Gestión de Perfiles de Técnicos	          | 5               | José Arenas   | Done                                   |                                 |
 | US26 |  vista de Pagina no encontrada  | TS10 | Implementación de la vista "Página no encontrada" en Vue | Desarrollo e implementación de la Función "Página no encontrada"    | 5               | Diego Cancho   | Done                                   |                                 |
 | US03 | Comunicación Multicanal con el Servicio Técnico   | TS11 | Vista del Chat entre el Técnico y el Cliente        | Desarrollo e implementación de la Función Vista del Chat entre el Técnico y el Cliente      | 5               | Diego Cancho   | Done                                   |                                 |
-| US13 | Gestión de Perfiles de Técnicos   | TS09 | Gestión de Perfiles de Técnicos	en Vue        | Desarrollo e implementación de la Función Gestión de Perfiles de Técnicos	          | 5               | José Arenas   | Done                                   |
+| US09 | Reseñas y Calificaciones de Centros Técnicos / Técnicos  | TS09 | Reseñas y Calificaciones de Centros Técnicos / Técnicos en Vue        | Desarrollo e implementación de la Función Reseñas y Calificaciones de Centros Técnicos / Técnicos   | 5               | Oscar   | Done                                   |
 
 <div align="center">
 
