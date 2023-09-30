@@ -188,7 +188,7 @@ TB1: Para esta entrega, realizamos en equipo los puntos que corresponden a los c
 
 ### [Conclusiones](#conclusiones)
 
-##[Bibliografía](#bibliografía)
+## [Bibliografía](#bibliografía)
 
 <br><br>
 
