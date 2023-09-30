@@ -9,6 +9,8 @@
 
 Enlace de exposición de la entrega TB1:  [Exposición TB1 - PhoneResQ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b510_upc_edu_pe/EWp5DRAfO6dJpWNUr80tuxgBQV3PcbRZKayP9WzTZ2rfcA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=Qbi2tL)
 <br>
+Enlace de exposición de la entrega TP1:  [Exposición TP1 - PhoneResQ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/Ecsuj7KuL-ZCsbX511apauIB-lKiaKFiD3vAhungv65mUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=7KBraz)
+<br>
 
 <center>
     <h2>"Informe TP1"</h2>
