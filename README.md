@@ -2401,6 +2401,50 @@ En la ejecución de los commits durante nuestro segundo Sprint, utilizamos la co
 
 <br>
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1.Spring Planning 3.
+| Sprint 3                         | Implementación de la primera versión del Front-End                                                                                    |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background       |
+| Date                             | |
+| Time                             | |
+| Location                         | Campus UPC Villa |
+| Prepared By                      | Cancho Coila, Diego Fabian |
+| Pattendees (to planning meeting) | Cancho Coila Diego Fabian/ Chamorro Torres, Samuel / Arenas Conde, José Anthony / Moreno Carmona, Oscar Sebastián Nicolás |
+| **Sprint Goal & User Stories**   |
+| Sprint 2 Goal                    | Despliegue de Web Services e integración con front-end web application |
+| Sprint 2 Velocity                | |
+| Sum of Story Points              | |
+
+#### 5.2.3.2.Sprint Backlog 3.
+
+| id | Title | Id | Title | Description | Estimations(Hours) | Assigned To | Status(To-do /InProcess/ToReview/Done) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+#### 5.2.3.3.Development Evidence for Sprint Review.
+
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+
+### 5.3.2. Registro de Entrevistas.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+## 5.4. Video About-the-Product
+
 ## Conclusiones
 
  - A través del análisis de la competencia, hemos obtenido una comprensión clara de nuestras fortalezas y debilidades, lo que nos permite ofrecer un producto que se adapte de manera precisa a las necesidades de nuestros usuarios. Este proceso nos ha conferido una ventaja competitiva al identificar oportunidades para mejorar y destacar en el mercado.
