@@ -2439,9 +2439,314 @@ En la ejecución de los commits durante nuestro segundo Sprint, utilizamos la co
 
 ### 5.3.1. Diseño de Entrevistas.
 
+Preguntas para técnicos de reparación de celulares:
+
+Se muestra el funcionamiento de la Landing Page y el App Web, y se les pide que respondan las siguientes preguntas:
+<br>
+
+1. ¿Qué opinas de la idea de utilizar esta aplicación web para aceptar citas de usuarios que necesitan reparaciones de celulares? ¿Crees que sería útil para tu negocio?
+1. ¿Cuáles son las características de la aplicación web que encuentras más atractivas para ti como técnico de reparación?
+1. ¿Qué características adicionales te gustaría ver en la aplicación que actualmente no están disponibles?
+1. ¿Cómo te sientes acerca de la facilidad de uso de la aplicación? ¿Encuentras que la interfaz es intuitiva?
+1. ¿Qué sugerencias tienes para mejorar la experiencia de los técnicos al utilizar la aplicación?
+1. ¿Cómo te sientes acerca de la funcionalidad de la aplicación? ¿Crees que es eficiente y cumple con tus necesidades?
+1. ¿Qué piensas de la comunicación con los usuarios a través de la aplicación? ¿Es efectiva?
+1. ¿Cómo valoras la seguridad y privacidad de la información en la aplicación? ¿Te sientes cómodo con la forma en que se gestionan los datos?
+1. ¿Algún otro comentario o sugerencia que desees compartir sobre la aplicación web?
+
+Preguntas para usuarios:
+Se muestra el funcionamiento de la Landing Page y el App Web, y se les pide que respondan las siguientes preguntas:
+<br>
+
+1. ¿Qué te parece la idea de utilizar esta aplicación web para programar reparaciones de celulares con técnicos especializados?
+1. ¿Qué te llama la atención de la Landing Page de la aplicación? ¿Es clara y atractiva?
+1. ¿Has utilizado la aplicación web para programar una cita con un técnico? Si es así, ¿cómo fue tu experiencia?
+1. ¿Encuentras que la aplicación es fácil de usar y navegar? ¿Hay aspectos que encuentres confusos?
+1. ¿Qué características adicionales te gustaría ver en la aplicación que actualmente no están disponibles?
+1. ¿Cómo te sientes acerca de la comunicación con los técnicos a través de la aplicación? ¿Es eficiente?
+1. ¿Cómo valoras la seguridad y privacidad de tus datos personales al utilizar la aplicación?
+1. ¿Qué mejoras crees que podrían hacer que esta aplicación sea aún más útil para ti como usuario?
+1. ¿Tienes algún otro comentario o sugerencia sobre la aplicación web o la Landing Page?
+
 ### 5.3.2. Registro de Entrevistas.
 
 ### 5.3.3. Evaluaciones según heurísticas.
+<center>
+UX Heuristics & Principles Evaluation<br>
+Usability – Inclusive Design – Information Architecture
+</center>
+<br>
+
+
+**CARRERA:** Ingeniería de Software
+
+**CURSO:** Aplicaciones Web
+
+**SECCIÓN:** SV51
+
+**PROFESORES:** Todos
+
+**AUDITOR:** DevInvent
+
+**CLIENTE(S):** DevInvent
+
+**SITE o APP A EVALUAR:** PhoneResQ
+
+
+TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Desktop landing page
+
+ - Información y descripción de la aplicación y sus funcionalidades
+
+ - Información y breve descripción sobre el equipo de trabajo
+
+ - Visualización de testimonios
+
+ - Header y footer funcionales
+
+2. Desktop Web Applications
+
+ - Registro de nuevo usuario
+
+ - Inicio de sesión de usuario existente
+
+ - Header y footer funcionales
+
+ - Pestañas de navegación dentro de la aplicación
+
+ - Botones interactivos y de uso intuitivo
+
+ - Elección de sistema operativo y modelo de teléfono
+
+ - Creación una observación
+
+ - Visualización y funcionalidad de diferentes apartados
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Desktop landing page
+
+ - Formulario para crear cuenta o iniciar sesión
+
+ - Redes sociales asociadas a la startup
+
+ - Política de privacidad y condiciones de uso
+
+2. Desktop Web Applications
+
+ - Búsqueda de Servicios Técnicos
+
+ - Notificaciones de la aplicación
+
+ - Chat de la aplicación
+
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+
+
+|Nivel|Descripción|
+| :- | :- |
+|1|Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+
+**TABLAS RESUMEN:**
+
+Web Application
+
+
+|#|Problema|Escala de severidad|Heurística/Principio violada(o)|
+| :-: | :-: | :-: | :-: |
+|1|Los nombres de los accesos directos del nav-bar de la aplicación web son muy pequeños|2|Usabilidad - Legibilidad|
+|2|El acceso directo "Mi cuenta" del nav-bar está mal realizado, el "Mi" está encima de "cuenta", de forma vertical, cuando debe estar todo horizontalmente|3	|Usabilidad - Consistencia|
+|3|La barra de búsqueda de Servicios Técnicos aún no posee funcionalidad|3|Information Architecture - Funcionalidad|
+|4|El botón "Ordenar" de Servicios Realizados no posee funcionalidad|3|Information Architecture - Funcionalidad|
+|5|La función de chat del apartado "Mensajes" aún no fue implementada|4|Usabilidad - Funcionalidad|
+
+
+Landing Page
+
+
+|#|Problema|Escala de severidad|Heurística/Principio violada(o)|
+| :-: | :-: | :-: | :-: |
+|1|El tamaño de las cards de la sección de "Precios" de la Landing Page es desigual|2|Usabilidad - Consistencia|
+|2|La sección "Nosotros" de la landing page se encuentra vacía, solo contiene el título de la sección|3|Usabilidad - Contenido Significativo|
+|3|Los márgenes laterales de la sección "Acerca de PhoneResQ" son muy pequeños, el texto está muy pegado a los bordes|2|Usabilidad - Espacio y Diseño|
+
+
+
+
+DESCRIPCIÓN DE PROBLEMAS:
+
+1. Web Application
+
+**PROBLEMA #1:** Los nombres de los accesos directos del nav-bar de la aplicación web son muy pequeños
+
+Severidad: 2
+
+Heurística violada: Usabilidad - Legibilidad
+
+Problema:
+
+Los nombres de los accesos directos del nav-bar de la aplicación web son muy pequeños
+
+
+<p align="center">
+  <img src="https://i.imgur.com/X1fn9HX.png" width="450">
+</p>
+
+
+
+Recomendación:
+
+Aumenta el tamaño de fuente de los nombres de los accesos directos en el nav-bar. Esto mejorará la legibilidad y facilitará la navegación para los usuarios. Asegúrate de que el tamaño de fuente sea lo suficientemente grande para ser fácilmente visible y legible en dispositivos de diferentes tamaños. También considera utilizar un tipo de letra claro y fácil de leer. Asegúrate de que los cambios en el tamaño de fuente sean coherentes en todo el nav-bar para mantener una apariencia uniforme.
+
+**PROBLEMA #2:** Acceso directo “Mi cuenta”, tiene una apariencia visual mala.
+
+Severidad: 3
+
+Heurística violada: Usabilidad - Consistencia
+
+Problema:
+
+El acceso directo "Mi cuenta" del nav-bar está mal realizado, el "Mi" está encima de "cuenta", de forma vertical, cuando debe estar todo horizontalmente
+
+
+<p align="center">
+  <img src="https://i.imgur.com/09zawWs.png" width="450">
+</p>
+
+
+
+Recomendación:
+
+Reestructura el acceso directo "Mi cuenta" para que "Mi" y "cuenta" estén dispuestos horizontalmente en lugar de verticalmente. Esto ayudará a mantener la consistencia en la presentación de los accesos directos en el nav-bar y facilitará la comprensión de los usuarios. Asegúrate de que el diseño sea uniforme con los demás elementos del nav-bar y que la alineación sea horizontal. Realiza pruebas de usabilidad para confirmar que los usuarios encuentran el acceso directo más intuitivo después de la corrección.
+
+**PROBLEMA #3:** Funcionalidad de la barra de búsqueda
+
+Severidad: 3
+
+Heurística violada: Information Architecture - Funcionalidad
+
+Problema:
+
+La barra de búsqueda de Servicios Técnicos aún no posee funcionalidad
+
+
+<p align="center">
+  <img src="https://i.imgur.com/FD0BiWc.png" width="450">
+</p>
+
+
+
+Recomendación:
+
+Para mejorar la usabilidad y la funcionalidad, debes implementar la capacidad de búsqueda en la barra de búsqueda de Servicios Técnicos. Asegúrate de que los usuarios puedan ingresar términos de búsqueda y obtener resultados relevantes. Además, considera proporcionar retroalimentación visual, como un ícono de lupa, para indicar que la barra de búsqueda es interactiva. Implementa un motor de búsqueda que realice búsquedas efectivas en la base de datos de servicios técnicos y muestre los resultados de manera clara y organizada. Realiza pruebas de usabilidad para garantizar que la funcionalidad de búsqueda sea intuitiva y eficaz para los usuarios.
+
+**PROBLEMA #4:** Botón “Ordenar” sin funcionalidad
+
+Severidad: 3
+
+Heurística violada: Information Architecture - Funcionalidad
+
+Problema:
+
+El botón "Ordenar" del apartado de Servicios Realizados no posee funcionalidad
+
+
+<p align="center">
+  <img src="https://i.imgur.com/5iFzem8.png" width="450">
+</p>
+
+
+Recomendación:
+
+Para mejorar la usabilidad y la funcionalidad, debes implementar la funcionalidad del botón "Ordenar" en la sección de Servicios Realizados. Asegúrate de que los usuarios puedan ordenar la lista de servicios de acuerdo a ciertos criterios, como fecha, tipo de servicio, etc. Cuando los usuarios hagan clic en el botón "Ordenar", debe activarse una función de clasificación que reorganice la lista de servicios de acuerdo a la elección del usuario. Asegúrate de proporcionar una retroalimentación visual para indicar el estado de ordenación, como una flecha ascendente o descendente para indicar el orden ascendente o descendente. Realiza pruebas de usabilidad para confirmar que los usuarios encuentren la funcionalidad de ordenación fácil de usar y útil.
+
+**PROBLEMA #5:** Chat no implementado
+
+Severidad: 4
+
+Heurística violada: Usabilidad - Funcionalidad
+
+Problema:
+
+La función de chat del apartado "Mensajes" aún no fue implementada
+
+
+<p align="center">
+  <img src="https://i.imgur.com/1n01klW.png" width="450">
+</p>
+
+
+
+Recomendación:
+
+La implementación de la función de chat en el apartado "Mensajes" es crucial para ofrecer una experiencia completa y funcional a los usuarios. Debes priorizar la implementación de esta función y garantizar que los usuarios puedan comunicarse a través del chat de manera efectiva. Asegúrate de que el chat sea accesible y fácil de usar, y que los mensajes se envíen y reciban sin problemas. Realiza pruebas exhaustivas para asegurarte de que la función de chat funcione correctamente antes de lanzarla. La falta de esta funcionalidad puede tener un impacto significativo en la experiencia del usuario y, por lo tanto, debe abordarse con alta prioridad.
+
+2. Landing Page
+
+**PROBLEMA #1:** El tamaño de las cards de la sección de "Precios" de la Landing Page es desigual
+
+Severidad: 2
+
+Heurística violada: Usabilidad - Consistencia
+
+Problema:
+
+El tamaño de las cards de la sección de "Precios" de la Landing Page es desigual
+
+<p align="center">
+  <img src="https://i.imgur.com/6CoTTvY.png" width="450">
+</p>
+
+Recomendación:
+
+Ajusta el tamaño de las cards para que sean uniformes y estéticamente agradables. Esto ayudará a mantener la coherencia visual y facilitará a los usuarios la comparación de diferentes opciones. Asegúrate de que el texto y los elementos en cada card se ajusten apropiadamente al nuevo tamaño para mantener una apariencia equilibrada.
+
+**PROBLEMA #2:** La sección "Nosotros" de la landing page se encuentra vacía, solo contiene el título de la sección
+
+Severidad: 3
+
+Heurística violada: Usabilidad - Contenido Significativo
+
+Problema:
+
+La sección "Nosotros" de la landing page se encuentra vacía, solo contiene el título de la sección
+
+<p align="center">
+  <img src="https://i.imgur.com/03R8KYB.png" width="450">
+</p>
+
+Recomendación:
+
+Debes proporcionar contenido relevante y significativo en la sección "Nosotros" para que los usuarios entiendan el propósito y la identidad de tu empresa o servicio. Agrega información sobre la historia, misión, visión, valores o cualquier otro contenido relevante que ayude a los visitantes a conectarse con tu marca. Asegúrate de que el contenido sea claro y atractivo, y que esté en línea con el propósito de la página de inicio.
+
+**PROBLEMA #3:** Margenes laterales de la sección "Acerca de PhoneResQ"
+
+Severidad: 2
+
+Heurística violada: 	Usabilidad - Espacio y Diseño
+
+Problema:
+
+Los márgenes laterales de la sección "Acerca de PhoneResQ" son muy pequeños, el texto está muy pegado a los bordes
+
+  <p align="center">
+  <img src="https://i.imgur.com/Nfwhhvr.png" width="450">
+</p>
+
+Recomendación:
+
+Aumenta los márgenes laterales de la sección "Acerca de PhoneResQ" para proporcionar más espacio en los bordes. Esto ayudará a mejorar la legibilidad y la estética del contenido. Asegúrate de que el texto esté correctamente alineado y que haya un equilibrio visual en la página. Considera también el uso de márgenes superiores e inferiores adecuados para separar el contenido de otras secciones de la página. Asegúrate de que el diseño sea coherente en toda la página.
 
 ## 5.4. Video About-the-Product
 
