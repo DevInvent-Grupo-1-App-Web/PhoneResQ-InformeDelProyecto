@@ -2472,14 +2472,14 @@ Se muestra el funcionamiento de la Landing Page y el App Web, y se les pide que 
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
-<center>
-UX Heuristics & Principles Evaluation<br>
+<div align="center">
+UX Heuristics & Principles Evaluation
 Usability – Inclusive Design – Information Architecture
-</center>
+</div>
 
 <br>
 
-<center>
+<div align="center">
 
 **CARRERA:** Ingeniería de Software
 
@@ -2495,7 +2495,8 @@ Usability – Inclusive Design – Information Architecture
 
 **SITE o APP A EVALUAR:** PhoneResQ
 
-</center>
+</div>
+
 
 
 TAREAS A EVALUAR:
