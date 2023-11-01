@@ -2471,12 +2471,15 @@ Se muestra el funcionamiento de la Landing Page y el App Web, y se les pide que 
 ### 5.3.2. Registro de Entrevistas.
 
 ### 5.3.3. Evaluaciones según heurísticas.
+
 <center>
 UX Heuristics & Principles Evaluation<br>
 Usability – Inclusive Design – Information Architecture
 </center>
+
 <br>
 
+<center>
 
 **CARRERA:** Ingeniería de Software
 
@@ -2491,6 +2494,8 @@ Usability – Inclusive Design – Information Architecture
 **CLIENTE(S):** DevInvent
 
 **SITE o APP A EVALUAR:** PhoneResQ
+
+</center>
 
 
 TAREAS A EVALUAR:
