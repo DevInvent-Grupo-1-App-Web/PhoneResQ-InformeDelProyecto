@@ -2471,9 +2471,11 @@ Se muestra el funcionamiento de la Landing Page y el App Web, y se les pide que 
 ### 5.3.2. Registro de Entrevistas.
 
 ### 5.3.3. Evaluaciones según heurísticas.
-
+<br>
 <div align="center">
-UX Heuristics & Principles Evaluation
+
+**UX Heuristics & Principles Evaluation** 
+<br>
 Usability – Inclusive Design – Information Architecture
 </div>
 
