@@ -2758,6 +2758,15 @@ Aumenta los márgenes laterales de la sección "Acerca de PhoneResQ" para propor
 
 ## 5.4. Video About-the-Product
 
+Breve video promocionando nuestra aplicación web y animando a nuestros usuarios a usarla.
+
+<p align="center">
+  <img src="https://i.imgur.com/Ci9tts8.png" width="450">
+</p>
+
+Se puede visualizar el video en el siguiente enlace: [Ver video About The Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EXbkW88y7zpPosaAPH0i0okBVQ-Lpx0wiG6Jbywdln-Iiw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=5qUwsl)
+
+
 ## Conclusiones
 
  - A través del análisis de la competencia, hemos obtenido una comprensión clara de nuestras fortalezas y debilidades, lo que nos permite ofrecer un producto que se adapte de manera precisa a las necesidades de nuestros usuarios. Este proceso nos ha conferido una ventaja competitiva al identificar oportunidades para mejorar y destacar en el mercado.
