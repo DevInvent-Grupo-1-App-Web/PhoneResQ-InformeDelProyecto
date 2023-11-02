@@ -12,6 +12,8 @@ Enlace de exposición de la entrega TB1:  [Exposición TB1 - PhoneResQ](https://
 <br>
 Enlace de exposición de la entrega TP1:  [Exposición TP1 - PhoneResQ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/Ecsuj7KuL-ZCsbX511apauIB-lKiaKFiD3vAhungv65mUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=7KBraz)
 <br>
+Enlace de exposición de la entrega TB2:  [Exposición TB2 - PhoneResQ]()
+<br>
 
 <center>
 
@@ -36,6 +38,8 @@ Enlace de exposición de la entrega TP1:  [Exposición TP1 - PhoneResQ](https://
 | 0.1   | 1/09/2023 | DevInvent | Se agrego el primer capitulo al trabajo  |
 | 0.2   | 9/09/2023 | DevInvent | Se realizaron los Capítulos I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification y Capítulo IV: Product Design|
 | 0.3   | 29/09/2023 | DevInvent | Se realizaron los puntos del Capítulo V: Sprint 2, Sprint Planning 2, Sprint Backlog 2, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint.|
+| 0.4  | 02/11/2023 | DevInvent | Se realizaron los puntos del Capítulo V: Sprint 3, Sprint Planning 3, Sprint Backlog 3, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, validation Interviews, Registro de Entrevistas, Evaluaciones según heurísticas y Video-about the product.|
+
 
 
 ## Project Report Collaboration Insights 
@@ -85,6 +89,54 @@ TB1: Para esta entrega, realizamos en equipo los puntos que corresponden a los c
  </div>
 
 <br><br>
+
+- **TB2:** Para esta entrega, realizamos en equipo las actividades correspondientes dentro del repositorio dentro de nuestra organización de grupo:
+
+    Link del repositorio del Informe Final: [Github - Informe Final PhoneResQ](https://github.com/DevInvent-Grupo-1-App-Web/PhoneResQ-InformeDelProyecto)
+
+  <br>
+
+    A continuación, se muestran las capturas de evidencia correspondientes al desarrollo de los siguientes puntos:
+
+    - Sprint 3
+    - Sprint Planning 3
+    - Sprint Backlog 3
+    - Development Evidence for Sprint Review
+    - Testing Suite Evidence for Sprint Review
+    - Execution Evidence for Sprint Review
+    - Services Documentation Evidence for Sprint Review
+    - Software Deployment Evidence for Sprint Review
+    - Team Collaboration Insights during Sprint
+    - Validation Interviews
+    - Registro de Entrevistas.
+    - Evaluaciones según heurísticas.
+    - Video-about the product
+
+
+
+<div align="center">
+
+  <img src="https://i.imgur.com/pAza3Z3.png">
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://i.imgur.com/qIgSn6b.png">
+
+</div>
+<div align="center">
+
+  <img src="https://i.imgur.com/GgPd7SO.png">
+
+</div>
+
+<br>
+
+
+
 ------
 # Contenido
 
@@ -167,31 +219,141 @@ TB1: Para esta entrega, realizamos en equipo los puntos que corresponden a los c
 
 ### [Capítulo V: Product Implementation, Validation & Deployment](#capc3adtulo-v-product-implementation-validation--deployment-1)
 
-- [5.1. Software Configuration Management](#51-software-configuration-management)
-  - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-  - [5.1.2. Source Code Management](#512-source-code-management)
-  - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-  - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-- [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-  - [5.2.1. Sprint 1](#521-sprint-1)
-    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-    - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
-    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-
-  - [5.2.2. Sprint 2](#522-sprint-2)
-    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
-    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
-    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+- [Universidad Peruana De Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
+  - [Desarrollo de Aplicaciones Web SV51](#desarrollo-de-aplicaciones-web-sv51)
+  - [Integrantes:](#integrantes)
+  - [Registro de Versiones Del Informe](#registro-de-versiones-del-informe)
+  - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Contenido](#contenido)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
+    - [Registro de versiones del informe](#registro-de-versiones-del-informe-1)
+    - [Project Report Collaboration Insights](#project-report-collaboration-insights-1)
+    - [Contenido](#contenido-1)
+    - [Student Outcome](#student-outcome)
+    - [Capítulo I: Introducción](#capítulo-i-introducción)
+    - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+    - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+    - [Capítulo IV: Product Design](#capítulo-iv-product-design)
+    - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
+    - [Conclusiones](#conclusiones)
+    - [Bibliografía](#bibliografía)
+- [Student Outcome](#student-outcome-1)
+- [Capítulo I: Introducción](#capítulo-i-introducción-1)
+  - [1.1. StartUp Profile](#11-startup-profile)
+- [1.1.1 Descripción de la startup](#111-descripción-de-la-startup)
+- [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+- [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+  - [1.2.2 Lean UX Process](#122-lean-ux-process)
+    - [1.2.2.1 Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+    - [1.2.2.2 Lean UX Assumptions](#1222-lean-ux-assumptions)
+    - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+    - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3 Segmentos objetivo](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis-1)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1 Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2 Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)
+      - [Guía de preguntas para usuarios que desean reparar su dispositivo](#guía-de-preguntas-para-usuarios-que-desean-reparar-su-dispositivo)
+      - [Preguntas sobre el proyecto a usuarios que desean reparar el dispositivo:](#preguntas-sobre-el-proyecto-a-usuarios-que-desean-reparar-el-dispositivo)
+      - [Guía de preguntas para usuarios que desean reparar su dispositivo](#guía-de-preguntas-para-usuarios-que-desean-reparar-su-dispositivo-1)
+      - [Preguntas sobre el proyecto a los técnicos:](#preguntas-sobre-el-proyecto-a-los-técnicos)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+    - [Capitulo III: Requirements Specification](#capitulo-iii-requirements-specification)
+      - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+      - [3.2. User Stories](#32-user-stories)
+      - [3.3. Impact Mapping](#33-impact-mapping)
+      - [3.4. Product Backlog](#34-product-backlog)
+    - [Capitulo IV: Product  Design](#capitulo-iv-product--design)
+      - [4.1. Style Guidelines](#41-style-guidelines)
+      - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+      - [4.1.1. General Style Guidelines](#411-general-style-guidelines-1)
+      - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1 Organization Systems](#421-organization-systems)
+    - [4.2.2 Labeling Systems](#422-labeling-systems)
+    - [4.2.3 SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4 Searching Systems](#424-searching-systems)
+    - [4.2.5 Navigation Systems](#425-navigation-systems)
+      - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+      - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
+      - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
+      - [4.4. Web Applications UX/UI Desing](#44-web-applications-uxui-desing)
+      - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+      - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+      - [4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)
+      - [4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
+      - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams](#471-class-diagrams)
+    - [4.7.2. Class Dictionary](#472-class-dictionary)
+  - [4.8. Database Design](#48-database-design)
+    - [4.8.1 Database diagram](#481-database-diagram)
+- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment-1)
+  - [5.1. Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+      - [Project Management](#project-management)
+      - [Requirements Management](#requirements-management)
+      - [Product UX/UI Design](#product-uxui-design)
+      - [Software Development:](#software-development)
+      - [Software Testing](#software-testing)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+  - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
+  - [Nomenclatura General](#nomenclatura-general)
+  - [Sangría](#sangría)
+  - [Especificaciones generales](#especificaciones-generales)
+    - [HTML](#html)
+    - [CSS](#css)
+    - [JavaScript](#javascript)
+    - [Gherking](#gherking)
+    - [Typescript](#typescript)
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+  - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+    - [5.2.1.1. Sprint Planning 1.](#5211-sprint-planning-1)
+      - [5.2.1.2. Sprint Backlog 1.](#5212-sprint-backlog-1)
+      - [5.2.1.3. Development Evidence for Sprint Review.](#5213-development-evidence-for-sprint-review)
+      - [5.2.1.4. Testing Suite Evidence for Sprint Review.](#5214-testing-suite-evidence-for-sprint-review)
+    - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2.](#5221-sprint-planning-2)
+      - [5.2.2.2. Sprint Backlog 2.](#5222-sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1.Spring Planning 3.](#5231spring-planning-3)
+      - [5.2.3.2.Sprint Backlog 3.](#5232sprint-backlog-3)
+      - [5.2.3.3.Development Evidence for Sprint Review.](#5233development-evidence-for-sprint-review)
+      - [5.2.3.4.Testing Suite Evidence for Sprint Review.](#5234testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5.Execution Evidence for Sprint Review.](#5235execution-evidence-for-sprint-review)
+      - [5.2.3.6.Services Documentation Evidence for Sprint Review.](#5236services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7.Software Deployment Evidence for Sprint Review.](#5237software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8.Team Collaboration Insights during Sprint.](#5238team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews.](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+  - [5.4. Video About-the-Product](#54-video-about-the-product)
+  - [Conclusiones](#conclusiones-1)
+  - [Bibliografía](#bibliografía-1)
 
 ### [Conclusiones](#conclusiones-1)
 
@@ -2420,21 +2582,98 @@ En la ejecución de los commits durante nuestro segundo Sprint, utilizamos la co
 
 | id | Title | Id | Title | Description | Estimations(Hours) | Assigned To | Status(To-do /InProcess/ToReview/Done) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| US11 | Seguimiento del estado del servicio    | TS01 |Vista del Tracking (Desarrollado con el framework Primvue)         | Desarrollo e implementación de la vista de Tracking, con sus estilos correspondientes      | 5                  | José Arenas | Done                                   |
+| US12 | Gestión de Inventarios para Centros Técnicos   | TS01 |Vista del Inventario (Desarrollado con el framework Primvue)         | Desarrollo e implementación de la vista de Inventario, con sus estilos correspondientes      | 5                  | José Arenas | Done                                   |
+| US08 | Dashboard para técnicos.  | TS01 |Vista del Dashboard del técnico (Desarrollado con el framework Primvue)         | Desarrollo e implementación de la vista del Dashboard, con sus estilos correspondientes      | 5                  | Diego Cancho| Done                                   |
 
 #### 5.2.3.3.Development Evidence for Sprint Review.
 
 | Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
 | ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| PhoneResQ-app | feature/Inventoryview | 41eaaf7 | feature: inventory | -                   | 28/10/2023         |
+| PhoneResQ-app | feature/trackingview | 27c94e0| feature: tracking view | -                   | 01/11/2023         |
+| PhoneResQ-app | feature/dashboard | 5cc5847   | feature: dashboard | -                   | 01/11/2023         |
+
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 
+A continuación, se muestra la evidencia en forma de capturas de pantalla sobre el testeo del Front-End, el cual se realizó de manera satisfactoria.
+
+Tenemos la compilación en consola, la cual se completó satisfactoriamente.
+
+<div align="center">
+
+  <img src="https://i.imgur.com/vdokWSn.png">
+
+</div>
+
+<br>
+
+Tenemos nuestro localhost, el cual se muestra correctamente de acuerdo a lo que se ha desarrollado.
+
+<div align="center">
+
+  <img src="https://i.imgur.com/cLuiy39.png">
+
+</div>
+
+<br>
+
 #### 5.2.3.5.Execution Evidence for Sprint Review.
+
+<div align="center">
+
+  <img src="img">
+
+</div>
+
+<br>
+
+Link al video: [Ver video de Ejecución del Front-End]()
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
+| Endpoint | Detalles |
+| - | - | 
+| /incio| En esta ruta se muestra la primera vista del servicio | 
+| /mi-cuenta | En esta ruta se muestran los datos de la cuenta del usuario | 
+| /courses  | En esta ruta se muestra la pantalla relacionada a los cursos que ofrecen los expertos | 
+| /sisopchoose  | En esta ruta se muestra la pantalla relacionada a la elección del Celular que pose el usario| 
+| /login  | En este endpoint se muestra la pantalla relacionada al inicio de sesión | 
+| /tracking:id  | En este endpoint se muestra la pantalla del tracking de un servicio en específico | 
+| /inventory  | En este endpoint se muestra la pantalla del inventario | 
+| /dashboard:id  | En este endpoint se muestra la pantalla del dashboard |
+
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
+Para realizar el despliegue automático de nuestro Front-End, utilizamos el hosting de Google Firebase, el cual permite alojar el código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: https://phoneresq-22d13.web.app/login 
+
+
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
+En la ejecución de los commits durante nuestro segundo Sprint, utilizamos la combinación de Visual Studio Code y Git. Inicialmente, uno de los miembros realizó un commit inicial para crear el repositorio. Luego, empleamos Git para clonar el repositorio y efectuamos las modificaciones en Visual Studio Code. También creamos los branches pertinentes para estos cambios y, al concluir, realizamos un commit. Este commit será sometido a revisión en el repositorio de Github. El líder del equipo aprobó los pull request que se generaron como resultado de estas acciones.
+
+<div align="center">
+
+  <img src="https://i.imgur.com/pAza3Z3.png">
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://i.imgur.com/qIgSn6b.png">
+
+</div>
+<div align="center">
+
+  <img src="https://i.imgur.com/GgPd7SO.png">
+
+</div>
+
+<br>
+
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
