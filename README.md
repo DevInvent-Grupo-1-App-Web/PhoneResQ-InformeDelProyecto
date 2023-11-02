@@ -2568,15 +2568,15 @@ En la ejecución de los commits durante nuestro segundo Sprint, utilizamos la co
 | Sprint 3                         | Implementación de la primera versión del Front-End                                                                                    |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sprint Planning Background       |
-| Date                             | |
-| Time                             | |
+| Date                             | 02/11/2023|
+| Time                             | 6:00pm |
 | Location                         | Campus UPC Villa |
 | Prepared By                      | Cancho Coila, Diego Fabian |
 | Pattendees (to planning meeting) | Cancho Coila Diego Fabian/ Chamorro Torres, Samuel / Arenas Conde, José Anthony / Moreno Carmona, Oscar Sebastián Nicolás |
 | **Sprint Goal & User Stories**   |
-| Sprint 2 Goal                    | Despliegue de Web Services e integración con front-end web application |
-| Sprint 2 Velocity                | |
-| Sum of Story Points              | |
+| Sprint 2 Goal                    | Agregar vistas restantes al front-end web application |
+| Sprint 2 Velocity                | 18 |
+| Sum of Story Points              | 15 |
 
 #### 5.2.3.2.Sprint Backlog 3.
 
