@@ -2774,7 +2774,7 @@ En general, Franco ve a PhoneResQ como una herramienta prometedora y sugiere que
 
 **Entrevista 03**
 
-Nombre y apellidos: 
+Nombre y apellidos: Gustavo Adolfo Pardo
 
 Edad:
 
@@ -2788,9 +2788,9 @@ Evidencia de la reunión:
 
 </div>
 
-Inicio: 
+Inicio: 25:59
 
-Fin: 
+Fin: 32:47
 
 **Enlace de entrevista:** [Validation Interviews]()
 
