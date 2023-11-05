@@ -2678,7 +2678,7 @@ En la ejecución de los commits durante nuestro segundo Sprint, utilizamos la co
 
 ### 5.3.1. Diseño de Entrevistas.
 
-Preguntas para técnicos de reparación de celulares:
+**Preguntas para técnicos de reparación de celulares:**
 
 Se muestra el funcionamiento de la Landing Page y el App Web, y se les pide que respondan las siguientes preguntas:
 <br>
@@ -2693,7 +2693,7 @@ Se muestra el funcionamiento de la Landing Page y el App Web, y se les pide que 
 1. ¿Cómo valoras la seguridad y privacidad de la información en la aplicación? ¿Te sientes cómodo con la forma en que se gestionan los datos?
 1. ¿Algún otro comentario o sugerencia que desees compartir sobre la aplicación web?
 
-Preguntas para usuarios:
+**Preguntas para usuarios:**
 Se muestra el funcionamiento de la Landing Page y el App Web, y se les pide que respondan las siguientes preguntas:
 <br>
 
@@ -2708,6 +2708,155 @@ Se muestra el funcionamiento de la Landing Page y el App Web, y se les pide que 
 1. ¿Tienes algún otro comentario o sugerencia sobre la aplicación web o la Landing Page?
 
 ### 5.3.2. Registro de Entrevistas.
+
+<br>
+
+<span class="size" style="font-size:20px">**Segmento 01: Tecnicos en reparación de celulares**</span>
+
+**Entrevista 01**
+
+Entrevistado 1:
+
+Nombre y apellidos: Luis Pinto
+
+Edad: 29 años
+
+Ubicación: Anchash, Huarmey
+
+Evidencia de la reunión:
+
+<div align="center">
+
+  <img src="https://i.imgur.com/sMC2UVH.png">
+
+</div>
+
+Inicio: 00:00
+
+Fin: 14:49
+
+
+**Enlace de entrevista:** [Validation Interviews]()
+
+**Resumen de la entrevista:**
+Luis Pinto, un joven de 29 años de Huarmey, Ancash, ve el potencial en la aplicación web PhoneResQ para gestionar citas de reparación de celulares en su negocio. Destaca las funciones de programación de citas, gestión de inventario y comunicación con los clientes como atractivas, pero sugiere mejoras como notificaciones de stock bajo, recordatorios de citas y la capacidad de adjuntar fotos o documentos. Luis enfatiza la importancia de la facilidad de uso, ofrece ideas para mejorar la interfaz y pide un soporte técnico eficiente. Considera que la aplicación puede mejorar la satisfacción del cliente y la eficiencia, prioriza la seguridad de la información y espera que evolucione según las necesidades de los técnicos, además de sugerir una versión móvil para uso en terreno.
+
+**Entrevista 02**
+
+Nombre y apellidos: Franco Chavez
+
+Edad: 24 años
+
+Ubicación: Chorrillos
+
+
+Evidencia de la reunión:
+
+<div align="center">
+
+  <img src="https://imgur.com/a/07Ty7Du">
+
+</div>
+
+Inicio: 14:50
+
+Fin: 25:58
+
+**Enlace de entrevista:** [Validation Interviews]()
+
+**Resumen de la entrevista:**
+Franco Chávez, de 24 años y residente en Chorrillos, considera que la idea de utilizar la aplicación web PhoneResQ para gestionar citas de reparación de celulares es prometedora y útil para su negocio. Destaca las características de programación de citas, gestión de inventario de piezas y la comunicación con los clientes como atractivas.
+Franco sugiere agregar una función de notificación de stock bajo, recordatorios automáticos de citas y la posibilidad de adjuntar fotos o documentos relacionados con las reparaciones. Se preocupa por la facilidad de uso y sugiere un tutorial inicial. Propone una función de búsqueda rápida en el inventario de piezas, personalización de la interfaz y soporte técnico rápido.
+En cuanto a la funcionalidad, Franco cree que es lo que necesita, pero espera confirmarlo en el uso real. Considera que la comunicación con los usuarios a través de la aplicación sería efectiva, mejorando la satisfacción del cliente y la eficiencia. Valora la seguridad y privacidad de la información y sugiere seguir las mejores prácticas.
+En general, Franco ve a PhoneResQ como una herramienta prometedora y sugiere que la aplicación siga evolucionando según las necesidades de los técnicos. También menciona que una aplicación móvil sería conveniente para el uso en terreno.
+
+
+
+**Entrevista 03**
+
+Nombre y apellidos: 
+
+Edad:
+
+Ubicación:
+
+Evidencia de la reunión:
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+Inicio: 
+
+Fin: 
+
+**Enlace de entrevista:** [Validation Interviews]()
+
+**Resumen de la entrevista:**
+
+
+<br>
+
+<span class="size" style="font-size:20px">**Segmento 02: Clientes que desean reparar su celular**</span>
+
+**Entrevista 01**
+
+Nombre y apellidos: Gissell Palomino
+
+Edad: 20 años
+
+Ubicación: San Juan de Miraflores
+
+
+Evidencia de la reunión:
+
+<div align="center">
+
+  <img src="https://i.imgur.com/qzWlode.png">
+
+</div>
+
+Inicio: 
+
+Fin: 
+
+**Enlace de entrevista:** [Validation Interviews]() 
+
+**Resumen de la entrevista:**
+Luego de visualizar la landing page y la aplicación web, Gissell resaltó lo intuitiva que fue la aplicación, como de sencilla de usar fue y que muchas de las funcionalidades están muy bien implementadas, además señaló que realmente le gusto la aplicación y como idea de negocio en conjunto. Señala, que debería agregarse un apartado de configuración para modificar algunas funcionalidades o hacer arreglos en su cuenta.
+
+
+**Entrevista 02**
+
+Nombre y apellidos:
+
+Edad:
+
+Ubicación:
+
+Evidencia de la reunión:
+
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+Inicio: 
+
+Fin: 
+
+**Enlace de entrevista:** [Validation Interviews]()
+
+**Resumen de la entrevista:**
+
+
+
+<br>
+<br>
 
 ### 5.3.3. Evaluaciones según heurísticas.
 <br>
