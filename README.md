@@ -2623,13 +2623,13 @@ Tenemos nuestro localhost, el cual se muestra correctamente de acuerdo a lo que 
 
 <div align="center">
 
-  <img src="img">
+  <img src="https://i.imgur.com/c4TFGfm.png">
 
 </div>
 
 <br>
 
-Link al video: [Ver video de Ejecución del Front-End]()
+Link al video: [Ver video de Ejecución del Front-End](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/ETC9_OUx8TpCgivkUOP5kEkBAIwldJudxusCEo_y62f1_Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=GbfaSM)
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
@@ -2736,7 +2736,7 @@ Inicio: 00:00
 Fin: 14:49
 
 
-**Enlace de entrevista:** [Validation Interviews]()
+**Enlace de entrevista:** [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EdLV8Ak3Pq9OpF8NbEyG7h0BTaOMjc2BjWOBo-IgSUREWg?e=aH7XhL)
 
 **Resumen de la entrevista:**
 Luis Pinto, un joven de 29 años de Huarmey, Ancash, ve el potencial en la aplicación web PhoneResQ para gestionar citas de reparación de celulares en su negocio. Destaca las funciones de programación de citas, gestión de inventario y comunicación con los clientes como atractivas, pero sugiere mejoras como notificaciones de stock bajo, recordatorios de citas y la capacidad de adjuntar fotos o documentos. Luis enfatiza la importancia de la facilidad de uso, ofrece ideas para mejorar la interfaz y pide un soporte técnico eficiente. Considera que la aplicación puede mejorar la satisfacción del cliente y la eficiencia, prioriza la seguridad de la información y espera que evolucione según las necesidades de los técnicos, además de sugerir una versión móvil para uso en terreno.
@@ -2762,7 +2762,7 @@ Inicio: 14:50
 
 Fin: 25:58
 
-**Enlace de entrevista:** [Validation Interviews]()
+**Enlace de entrevista:** [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EdLV8Ak3Pq9OpF8NbEyG7h0BTaOMjc2BjWOBo-IgSUREWg?e=aH7XhL)
 
 **Resumen de la entrevista:**
 Franco Chávez, de 24 años y residente en Chorrillos, considera que la idea de utilizar la aplicación web PhoneResQ para gestionar citas de reparación de celulares es prometedora y útil para su negocio. Destaca las características de programación de citas, gestión de inventario de piezas y la comunicación con los clientes como atractivas.
@@ -2774,11 +2774,11 @@ En general, Franco ve a PhoneResQ como una herramienta prometedora y sugiere que
 
 **Entrevista 03**
 
-Nombre y apellidos: Gustavo Adolfo Pardo
+Nombre y apellidos: Gustavo Pardo
 
-Edad:
+Edad: 22 años
 
-Ubicación:
+Ubicación: Huaral, Huaral
 
 Evidencia de la reunión:
 
@@ -2792,9 +2792,13 @@ Inicio: 25:59
 
 Fin: 32:47
 
-**Enlace de entrevista:** [Validation Interviews]()
+**Enlace de entrevista:** [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EdLV8Ak3Pq9OpF8NbEyG7h0BTaOMjc2BjWOBo-IgSUREWg?e=aH7XhL)
+
+
 
 **Resumen de la entrevista:**
+Las funcionalidades le parecieron muy interesantes, una interfaz intuitiva y colores bien escogidos con respecto al tema, las funcionalidades como el Inventario y el Tracking fueron las que le parecieron más utiles que le ayudaría mucho a mejorar su organización y la satisfacción al cliente. Por otro lado, la Landing Page le pareció bien distribuida y con los colores coincidentes al de la aplicación web, lo que le daba un sentido de homogeneidad. En cuanto a la funcionalidad, Gustavo cree que es lo que necesita, pero espera confirmarlo en el uso real. Considera que la comunicación con los usuarios a través de la aplicación sería efectiva, mejorando la satisfacción del cliente y la eficiencia. Valora la seguridad y privacidad de la información y sugiere seguir las mejores prácticas.
+
 
 
 <br>
@@ -2822,36 +2826,12 @@ Inicio: 32:48
 
 Fin: 45:53
 
-**Enlace de entrevista:** [Validation Interviews]() 
+**Enlace de entrevista:** [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EdLV8Ak3Pq9OpF8NbEyG7h0BTaOMjc2BjWOBo-IgSUREWg?e=aH7XhL)
+
 
 **Resumen de la entrevista:**
 Luego de visualizar la landing page y la aplicación web, Gissell resaltó lo intuitiva que fue la aplicación, como de sencilla de usar fue y que muchas de las funcionalidades están muy bien implementadas, además señaló que realmente le gusto la aplicación y como idea de negocio en conjunto. Señala, que debería agregarse un apartado de configuración para modificar algunas funcionalidades o hacer arreglos en su cuenta.
 
-
-**Entrevista 02**
-
-Nombre y apellidos:
-
-Edad:
-
-Ubicación:
-
-Evidencia de la reunión:
-
-
-<div align="center">
-
-  <img src="">
-
-</div>
-
-Inicio: 
-
-Fin: 
-
-**Enlace de entrevista:** [Validation Interviews]()
-
-**Resumen de la entrevista:**
 
 
 
