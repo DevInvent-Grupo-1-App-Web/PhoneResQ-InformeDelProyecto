@@ -2818,9 +2818,9 @@ Evidencia de la reunión:
 
 </div>
 
-Inicio: 
+Inicio: 32:48
 
-Fin: 
+Fin: 45:53
 
 **Enlace de entrevista:** [Validation Interviews]() 
 
