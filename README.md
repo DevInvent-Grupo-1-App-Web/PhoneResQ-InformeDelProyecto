@@ -2723,6 +2723,10 @@ Link al video: [Ver video de Ejecución del Back-End](https://upcedupe-my.sharep
 
 Para realizar el despliegue automático de nuestro Front-End, utilizamos el hosting de Google Firebase, el cual permite alojar el código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: https://phoneresq-22d13.web.app/login 
 
+Para el web service, aun no se ha realizado el despliegue, pero se tiene pensado realizarlo en Azure. Asimismo aqui se deja el link del repositorio del web service en GitHub:
+
+[Repositorio PhoneResQ-Api en Github](https://github.com/DevInvent-Grupo-1-App-Web/PhoneResQ.API)
+
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
 En la ejecución de los commits durante nuestro segundo Sprint, utilizamos la combinación de Visual Studio Code y Git. Inicialmente, uno de los miembros realizó un commit inicial para crear el repositorio. Luego, empleamos Git para clonar el repositorio y efectuamos las modificaciones en Visual Studio Code. También creamos los branches pertinentes para estos cambios y, al concluir, realizamos un commit. Este commit será sometido a revisión en el repositorio de Github. El líder del equipo aprobó los pull request que se generaron como resultado de estas acciones.
