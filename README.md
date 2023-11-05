@@ -2784,7 +2784,7 @@ Evidencia de la reunión:
 
 <div align="center">
 
-  <img src="">
+  <img src="https://i.imgur.com/GZmzQUD.png">
 
 </div>
 
