@@ -2754,7 +2754,7 @@ Evidencia de la reunión:
 
 <div align="center">
 
-  <img src="https://imgur.com/a/07Ty7Du">
+  <img src="https://i.imgur.com/yxq5lik.png">
 
 </div>
 
