@@ -2524,6 +2524,8 @@ Link al video: [Ver video de Ejecución del Front-End](https://upcedupe-my.share
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
+**Endpoints de la App Web**
+<br>
 | Endpoint | Detalles |
 | - | - | 
 | /incio| En esta ruta se muestra la primera vista del servicio | 
@@ -2531,6 +2533,7 @@ Link al video: [Ver video de Ejecución del Front-End](https://upcedupe-my.share
 | /courses  | En esta ruta se muestra la pantalla relacionada a los cursos que ofrecen los expertos | 
 | /sisopchoose  | En esta ruta se muestra la pantalla relacionada a la elección del Celular que pose el usario| 
 | /login  | En este endpoint se muestra la pantalla relacionada al inicio de sesión | 
+
 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
@@ -2574,8 +2577,8 @@ En la ejecución de los commits durante nuestro segundo Sprint, utilizamos la co
 | Prepared By                      | Cancho Coila, Diego Fabian |
 | Pattendees (to planning meeting) | Cancho Coila Diego Fabian/ Chamorro Torres, Samuel / Arenas Conde, José Anthony / Moreno Carmona, Oscar Sebastián Nicolás |
 | **Sprint Goal & User Stories**   |
-| Sprint 2 Goal                    | Agregar vistas restantes al front-end web application |
-| Sprint 2 Velocity                | 18 |
+| Sprint 3 Goal                    | Agregar vistas restantes al front-end web application y una primera versión del backend |
+| Sprint 3 Velocity                | 18 |
 | Sum of Story Points              | 15 |
 
 #### 5.2.3.2.Sprint Backlog 3.
@@ -2585,6 +2588,8 @@ En la ejecución de los commits durante nuestro segundo Sprint, utilizamos la co
 | US11 | Seguimiento del estado del servicio    | TS01 |Vista del Tracking (Desarrollado con el framework Primvue)         | Desarrollo e implementación de la vista de Tracking, con sus estilos correspondientes      | 5                  | José Arenas | Done                                   |
 | US12 | Gestión de Inventarios para Centros Técnicos   | TS01 |Vista del Inventario (Desarrollado con el framework Primvue)         | Desarrollo e implementación de la vista de Inventario, con sus estilos correspondientes      | 5                  | José Arenas | Done                                   |
 | US08 | Dashboard para técnicos.  | TS01 |Vista del Dashboard del técnico (Desarrollado con el framework Primvue)         | Desarrollo e implementación de la vista del Dashboard, con sus estilos correspondientes      | 5                  | Diego Cancho| Done                                   |
+| BK01 | Base del backend  | TS01 |Template del backend de la app web | Realización de toda la base del proyecto en C#, con un controlador   | 8                 | Diego Cancho| Done                                   |
+| BK02 |Backend Controllers  | TS01 | implementación de 5 controllers en el backend | Realización de cinco controllers del backend  | 5                  | José Arenas| Done                                   |
 
 #### 5.2.3.3.Development Evidence for Sprint Review.
 
@@ -2593,6 +2598,8 @@ En la ejecución de los commits durante nuestro segundo Sprint, utilizamos la co
 | PhoneResQ-app | feature/Inventoryview | 41eaaf7 | feature: inventory | -                   | 28/10/2023         |
 | PhoneResQ-app | feature/trackingview | 27c94e0| feature: tracking view | -                   | 01/11/2023         |
 | PhoneResQ-app | feature/dashboard | 5cc5847   | feature: dashboard | -                   | 01/11/2023         |
+| PhoneResQ.Api| feature/Api.Customers | bf0151e   | feature: template and Customers | -                   | 01/11/2023         |
+| PhoneResQ.Api | feature/Controllers | 344eade   | feature: controllers | -                   | 01/11/2023         |
 
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
@@ -2619,7 +2626,28 @@ Tenemos nuestro localhost, el cual se muestra correctamente de acuerdo a lo que 
 
 <br>
 
+
+**Web Services**
+
+En esta sección se muestra la Ejecución de nuestro Web Service con Rider.
+
+<div align="center">
+
+  <img src="https://i.imgur.com/fEEK9IC.png">
+
+</div>
+
+
+Swagger en el cual se muestran los endpoints de los servicios web.
+<div align="center">
+
+  <img src="https://i.imgur.com/Gdr0XUk.png">
+
+</div>
+
 #### 5.2.3.5.Execution Evidence for Sprint Review.
+
+Front-end de la aplicación web.
 
 <div align="center">
 
@@ -2630,6 +2658,25 @@ Tenemos nuestro localhost, el cual se muestra correctamente de acuerdo a lo que 
 <br>
 
 Link al video: [Ver video de Ejecución del Front-End](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/ETC9_OUx8TpCgivkUOP5kEkBAIwldJudxusCEo_y62f1_Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=GbfaSM)
+
+
+<br>
+
+**Backend de la aplicación web.**
+
+
+<div align="center">
+
+  <img src="https://i.imgur.com/A7xCq06.png">
+
+</div>
+
+<br>
+
+Link al video: [Ver video de Ejecución del Back-End](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EeiMJ7ZbOMpDvDwEHbqTyuwBZ8n2TnMThfsBI2x9uLZ02g?e=HlphFE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+
+
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
@@ -2643,6 +2690,34 @@ Link al video: [Ver video de Ejecución del Front-End](https://upcedupe-my.share
 | /tracking:id  | En este endpoint se muestra la pantalla del tracking de un servicio en específico | 
 | /inventory  | En este endpoint se muestra la pantalla del inventario | 
 | /dashboard:id  | En este endpoint se muestra la pantalla del dashboard |
+
+
+**Endpoints del Web Service**
+
+<div align="center">
+
+  <img src="https://i.imgur.com/Gdr0XUk.png">
+
+</div>
+<div align="center">
+
+  <img src="https://i.imgur.com/FkVhEar.png">
+
+</div>
+<div align="center">
+
+  <img src="https://i.imgur.com/vIqQSBe.png">
+
+</div>
+
+<div align="center">
+
+  <img src="https://i.imgur.com/9oFy2Py.png">
+
+</div>
+
+<br>
+
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
