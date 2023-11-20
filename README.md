@@ -136,7 +136,34 @@ TB1: Para esta entrega, realizamos en equipo los puntos que corresponden a los c
 
 <br>
 
+- **TF1:** Para esta entrega, realizamos como equipo las actividades correspondientes al capítulo asignado en el siguiente repositorio dentro de nuestra organización de grupo:
 
+    Link del repositorio del Informe Final: [Github - Informe Final PhoneResQ](https://github.com/DevInvent-Grupo-1-App-Web/PhoneResQ-InformeDelProyecto)
+
+    <br>
+
+    A continuación, se muestran las capturas de evidencia correspondientes al desarrollo de los siguientes puntos:
+
+    - Sprint 4
+    - Sprint Planning 4
+    - Sprint Backlog 4
+    - Development Evidence for Sprint Review
+    - Testing Suite Evidence for Sprint Review
+    - Execution Evidence for Sprint Review
+    - Services Documentation Evidence for Sprint Review
+    - Software Deployment Evidence for Sprint Review
+    - Team Collaboration Insights during Sprint
+
+    <div align=center>
+      <img src="https://i.imgur.com/hoXbFmK.png"/>      
+    </div>
+
+    <div align=center>
+      <img src="https://i.imgur.com/mFnmQBb.png"/>      
+    </div>
+
+
+<br><br>
 
 ------
 # Contenido
