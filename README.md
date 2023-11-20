@@ -24,7 +24,7 @@ Enlace de exposición de la entrega TF:  [Exposición TF - PhoneResQ](https://up
 <center>
 
 <center>
-    <h2>"Informe TP1"</h2>
+    <h2>"Informe del Trabajo Final"</h2>
     <h2>DevInvent - PhoneResQ</h2>
     <h3>Profesor: Escobar Aguirre, Jaime Luis </h2>
 </center>
