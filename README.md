@@ -41,10 +41,13 @@ Enlace de exposición de la entrega TF:  [Exposición TF - PhoneResQ](https://up
 
 | Version | Fecha | Autor |   Descripcion de modificacion   |
 |:----------:|:----------:|:----------:|:----------:|
-| 0.1   | 1/09/2023 | DevInvent | Se agrego el primer capitulo al trabajo  |
-| 0.2   | 9/09/2023 | DevInvent | Se realizaron los Capítulos I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification y Capítulo IV: Product Design|
-| 0.3   | 29/09/2023 | DevInvent | Se realizaron los puntos del Capítulo V: Sprint 2, Sprint Planning 2, Sprint Backlog 2, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint.|
-| 0.4  | 02/11/2023 | DevInvent | Se realizaron los puntos del Capítulo V: Sprint 3, Sprint Planning 3, Sprint Backlog 3, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, validation Interviews, Registro de Entrevistas, Evaluaciones según heurísticas y Video-about the product.|
+| TB0   | 1/09/2023 | DevInvent | Se agrego el primer capitulo al trabajo  |
+| TB1  | 9/09/2023 | DevInvent | Se realizaron los Capítulos I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification y Capítulo IV: Product Design|
+| TP1 | 29/09/2023 | DevInvent | Se realizaron los puntos del Capítulo V: Sprint 2, Sprint Planning 2, Sprint Backlog 2, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint.|
+| TB2  | 02/11/2023 | DevInvent | Se realizaron los puntos del Capítulo V: Sprint 3, Sprint Planning 3, Sprint Backlog 3, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, validation Interviews, Registro de Entrevistas, Evaluaciones según heurísticas y Video-about the product.|
+| TF1 | 20/11/2023 | DevInvent | Se realizaron los puntos del Capítulo V: Sprint 4, Sprint Planning 4, Sprint Backlog 4, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
+
+
 
 
 
