@@ -18,7 +18,7 @@ Enlace de exposición de la entrega TB2:  [Exposición TB2 - PhoneResQ](https://
 
 <br>
 
-Enlace de exposición de la entrega TF:  [Exposición TF - PhoneResQ]()
+Enlace de exposición de la entrega TF:  [Exposición TF - PhoneResQ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EciKuqYKNnpHm35ub-U5tfMBbMaJe6_XSYtteoubH1QVBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=4NBdDu)
 
 <br>
 
