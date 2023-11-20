@@ -2940,7 +2940,36 @@ Link al video: [Ver video de Ejecución del Back-End](https://upcedupe-my.sharep
 
 Para realizar el despliegue automático de nuestro Front-End, utilizamos el hosting de Google Firebase, el cual permite alojar el código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: https://phoneresq-22d13.web.app/login 
 
-Para el web service, aun no se ha realizado el despliegue, pero se tiene pensado realizarlo en Azure. Asimismo aqui se deja el link del repositorio del web service en GitHub:
+Para el web service, se ha realizado el deploy usando una Maquina Virtual en Azure y un contenedor Docker, el cual se encuentra en el siguiente link: [Contenedor de PhonResQ](https://hub.docker.com/r/dcancho/phoneresq-api)
+
+Ademas se puede acceder a la ruta para acceder a la información de la Api, la cual es la siguiente: http://172.203.177.103:8080/api/v1/[Controller], solo cambiando "Controller" por la ruta del controlador que se desea acceder.
+
+
+<br>
+Virtual Machine en Azure:
+<div align="center">
+
+  <img src="https://i.imgur.com/HkRxqvh.jpg">
+
+</div>
+
+<br>
+
+Contenedor en Docker:
+<div align="center">
+
+  <img src="https://i.imgur.com/s8YvVpF.jpg">
+
+</div>
+
+<div align="center">
+
+  <img src="https://i.imgur.com/ftyfh7v.jpg">
+
+</div>
+
+
+Asimismo aqui se deja el link del repositorio del web service en GitHub:
 
 [Repositorio PhoneResQ-Api en Github](https://github.com/DevInvent-Grupo-1-App-Web/PhoneResQ.API)
 
