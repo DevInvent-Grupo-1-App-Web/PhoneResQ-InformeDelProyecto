@@ -15,10 +15,9 @@ Enlace de exposición de la entrega TP1:  [Exposición TP1 - PhoneResQ](https://
 <br>
 
 Enlace de exposición de la entrega TB2:  [Exposición TB2 - PhoneResQ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EciKuqYKNnpHm35ub-U5tfMBbMaJe6_XSYtteoubH1QVBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=obCMhQ)
-
 <br>
 
-Enlace de exposición de la entrega TF:  [Exposición TF - PhoneResQ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EciKuqYKNnpHm35ub-U5tfMBbMaJe6_XSYtteoubH1QVBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=4NBdDu)
+Enlace de exposición de la entrega TF:  [Exposición TF - PhoneResQ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EfHXN_opS_JKlO5RQt2s-I4B3D2Tug1HwB-iu5qbIRPegg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=4S9P9T)
 
 <br>
 
