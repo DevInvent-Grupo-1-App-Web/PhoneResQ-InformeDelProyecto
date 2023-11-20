@@ -48,9 +48,6 @@ Enlace de exposición de la entrega TF:  [Exposición TF - PhoneResQ](https://up
 | TF1 | 20/11/2023 | DevInvent | Se realizaron los puntos del Capítulo V: Sprint 4, Sprint Planning 4, Sprint Backlog 4, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
 
 
-
-
-
 ## Project Report Collaboration Insights 
 TB1: Para esta entrega, realizamos en equipo los puntos que corresponden a los capítulos asignados en el siguiente repositorio dentro de nuestra organización de grupo: [Github - Informe Final PhoneResQ](https://github.com/DevInvent-Grupo-1-App-Web/PhoneResQ-InformeDelProyecto)
     <br>
