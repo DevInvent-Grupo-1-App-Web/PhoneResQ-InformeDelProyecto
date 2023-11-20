@@ -2944,6 +2944,14 @@ Para el web service, se ha realizado el deploy usando una Maquina Virtual en Azu
 
 Ademas se puede acceder a la ruta para acceder a la información de la Api, la cual es la siguiente: http://172.203.177.103:8080/api/v1/[Controller], solo cambiando "Controller" por la ruta del controlador que se desea acceder.
 
+Ejemplo de obtención de datos con Postman: 
+
+<div align="center">
+
+  <img src="https://i.imgur.com/MUXtakc.jpg">
+
+</div>
+
 
 <br>
 Virtual Machine en Azure:
