@@ -348,6 +348,14 @@ TB1: Para esta entrega, realizamos en equipo los puntos que corresponden a los c
       - [5.2.3.6.Services Documentation Evidence for Sprint Review.](#5236services-documentation-evidence-for-sprint-review)
       - [5.2.3.7.Software Deployment Evidence for Sprint Review.](#5237software-deployment-evidence-for-sprint-review)
       - [5.2.3.8.Team Collaboration Insights during Sprint.](#5238team-collaboration-insights-during-sprint)
+    - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+      - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+      - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7.Software Deployment Evidence for Sprint Review](#5247software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8.Team Collaboration Insights during Sprint](#5248team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
@@ -355,7 +363,6 @@ TB1: Para esta entrega, realizamos en equipo los puntos que corresponden a los c
   - [5.4. Video About-the-Product](#54-video-about-the-product)
   - [Conclusiones](#conclusiones-1)
   - [Bibliografía](#bibliografía-1)
-
 ### [Conclusiones](#conclusiones-1)
 
 ### [Bibliografía](#bibliografc3ada-1)
@@ -2730,7 +2737,7 @@ Para el web service, aun no se ha realizado el despliegue, pero se tiene pensado
 
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
-En la ejecución de los commits durante nuestro segundo Sprint, utilizamos la combinación de Visual Studio Code y Git. Inicialmente, uno de los miembros realizó un commit inicial para crear el repositorio. Luego, empleamos Git para clonar el repositorio y efectuamos las modificaciones en Visual Studio Code. También creamos los branches pertinentes para estos cambios y, al concluir, realizamos un commit. Este commit será sometido a revisión en el repositorio de Github. El líder del equipo aprobó los pull request que se generaron como resultado de estas acciones.
+En la ejecución de los commits durante nuestro tercer Sprint, utilizamos la combinación de Visual Studio Code y Git. Inicialmente, uno de los miembros realizó un commit inicial para crear el repositorio. Luego, empleamos Git para clonar el repositorio y efectuamos las modificaciones en Visual Studio Code. También creamos los branches pertinentes para estos cambios y, al concluir, realizamos un commit. Este commit será sometido a revisión en el repositorio de Github. El líder del equipo aprobó los pull request que se generaron como resultado de estas acciones.
 
 <div align="center">
 
@@ -2752,6 +2759,189 @@ En la ejecución de los commits durante nuestro segundo Sprint, utilizamos la co
 </div>
 
 <br>
+
+### 5.2.4.1. Sprint Planning 4
+
+| Sprint 4                         | Implementación de la version final del backend                                                                                   |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background       |
+| Date                             | 16/11/2023|
+| Time                             | 6:00pm |
+| Location                         | Campus UPC Villa |
+| Prepared By                      | Cancho Coila, Diego Fabian |
+| Pattendees (to planning meeting) | Cancho Coila Diego Fabian/ Chamorro Torres, Samuel / Arenas Conde, José Anthony / Moreno Carmona, Oscar Sebastián Nicolás |
+| **Sprint Goal & User Stories**   |
+| Sprint 4 Goal                    | versión final del backend e integración al app web |
+| Sprint 4 Velocity                | 18 |
+| Sum of Story Points              | 18 |
+
+
+#### 5.2.4.2. Sprint Backlog 4
+
+| id | Title | Id | Title | Description | Estimations(Hours) | Assigned To | Status(To-do /InProcess/ToReview/Done) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| BK03 | Implementación de lo restante del backend  | TS01 |Desarrollo del backend | Desarrollo de lo restante del backend   | 8                 | Diego Cancho| Done                                   |
+| BK04 |Backend Controllers  | TS01 | implementación de 2 controllers en el backend | Realización de 2 controllers del backend  | 5                  | José Arenas| Done                                   |
+| BK03 | Integración del backend y el frontend  | TS01 |Integró el backend y el frontend | Desarrollo de lo restante del backend  y su integración con el frontend  | 5                 | Diego Cancho| Done |
+
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| PhoneResQ-app | feature/fixed-front | 2cfde9d | feature: Update dependencies and fix routing issues | -                   | 19/11/2023         |
+| PhoneResQ.Api| feature/final | 9b16b80   | feature: final version | -                   | 20/11/2023         |
+
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+A continuación, se muestra la evidencia en forma de capturas de pantalla sobre el testeo del Front-End, el cual se realizó de manera satisfactoria.
+
+Tenemos la compilación en consola, la cual se completó satisfactoriamente.
+
+<div align="center">
+
+  <img src="https://i.imgur.com/vdokWSn.png">
+
+</div>
+
+<br>
+
+Tenemos nuestro localhost, el cual se muestra correctamente de acuerdo a lo que se ha desarrollado.
+
+<div align="center">
+
+  <img src="https://i.imgur.com/cLuiy39.png">
+
+</div>
+
+<br>
+
+
+**Web Services**
+
+En esta sección se muestra la Ejecución de nuestro Web Service con Rider.
+
+<div align="center">
+
+  <img src="https://i.imgur.com/fEEK9IC.png">
+
+</div>
+
+
+Swagger en el cual se muestran los endpoints de los servicios web.
+<div align="center">
+
+  <img src="https://i.imgur.com/Gdr0XUk.png">
+
+</div>
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+Front-end de la aplicación web.
+
+<div align="center">
+
+  <img src="https://i.imgur.com/c4TFGfm.png">
+
+</div>
+
+<br>
+
+Link al video: [Ver video de Ejecución del Front-End](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/ETC9_OUx8TpCgivkUOP5kEkBAIwldJudxusCEo_y62f1_Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=GbfaSM)
+
+
+<br>
+
+**Backend de la aplicación web.**
+
+
+<div align="center">
+
+  <img src="https://i.imgur.com/A7xCq06.png">
+
+</div>
+
+<br>
+
+Link al video: [Ver video de Ejecución del Back-End](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EeiMJ7ZbOMpDvDwEHbqTyuwBZ8n2TnMThfsBI2x9uLZ02g?e=HlphFE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+| Endpoint | Detalles |
+| - | - | 
+| /incio| En esta ruta se muestra la primera vista del servicio | 
+| /mi-cuenta | En esta ruta se muestran los datos de la cuenta del usuario | 
+| /courses  | En esta ruta se muestra la pantalla relacionada a los cursos que ofrecen los expertos | 
+| /sisopchoose  | En esta ruta se muestra la pantalla relacionada a la elección del Celular que pose el usario| 
+| /login  | En este endpoint se muestra la pantalla relacionada al inicio de sesión | 
+| /tracking:id  | En este endpoint se muestra la pantalla del tracking de un servicio en específico | 
+| /inventory  | En este endpoint se muestra la pantalla del inventario | 
+| /dashboard:id  | En este endpoint se muestra la pantalla del dashboard |
+
+
+**Endpoints del Web Service**
+
+<div align="center">
+
+  <img src="https://i.imgur.com/Gdr0XUk.png">
+
+</div>
+<div align="center">
+
+  <img src="https://i.imgur.com/FkVhEar.png">
+
+</div>
+<div align="center">
+
+  <img src="https://i.imgur.com/vIqQSBe.png">
+
+</div>
+
+<div align="center">
+
+  <img src="https://i.imgur.com/9oFy2Py.png">
+
+</div>
+
+<br>
+
+
+
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review
+
+Para realizar el despliegue automático de nuestro Front-End, utilizamos el hosting de Google Firebase, el cual permite alojar el código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: https://phoneresq-22d13.web.app/login 
+
+Para el web service, aun no se ha realizado el despliegue, pero se tiene pensado realizarlo en Azure. Asimismo aqui se deja el link del repositorio del web service en GitHub:
+
+[Repositorio PhoneResQ-Api en Github](https://github.com/DevInvent-Grupo-1-App-Web/PhoneResQ.API)
+
+
+#### 5.2.4.8.Team Collaboration Insights during Sprint
+En la ejecución de los commits durante nuestro ultimo Sprint, utilizamos la combinación de Visual Studio Code y Git. Inicialmente, uno de los miembros realizó un commit inicial para crear el repositorio. Luego, empleamos Git para clonar el repositorio y efectuamos las modificaciones en Visual Studio Code. También creamos los branches pertinentes para estos cambios y, al concluir, realizamos un commit. Este commit será sometido a revisión en el repositorio de Github. El líder del equipo aprobó los pull request que se generaron como resultado de estas acciones.
+
+<div align="center">
+
+  <img src="https://i.imgur.com/pAza3Z3.png">
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://i.imgur.com/qIgSn6b.png">
+
+</div>
+<div align="center">
+
+  <img src="https://i.imgur.com/GgPd7SO.png">
+
+</div>
+
+<br>
+
 
 
 ## 5.3. Validation Interviews.
